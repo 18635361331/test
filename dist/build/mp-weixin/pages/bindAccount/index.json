@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "绑定账号",
+  "usingComponents": {
+    "weixin-login": "/common/model/wxLogin/index"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "店铺搜索",
+  "usingComponents": {
+    "uni-drawer": "/components/uni-drawer/uni-drawer",
+    "single-goods": "/renovation/singleGoods/index",
+    "biserial-goods": "/renovation/biserialGoods/index",
+    "foot-no-more": "/components/footNoMore/index"
+  }
+}

@@ -1,0 +1,97 @@
+
+.address.data-v-0cf7b6f2{
+	background-color: #F5F5F5;
+	height: 100vh;
+}
+.collectTitle.data-v-0cf7b6f2{
+	position: relative;
+}
+.createAddress.data-v-0cf7b6f2{
+	width: 100%;
+	padding-bottom: 24rpx;
+}
+.everyBox.data-v-0cf7b6f2{
+	width: 100%;
+	height: 115rpx;
+	line-height: 115rpx;
+	position: relative;
+	padding-left: 28rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	color: #686868;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	border-bottom: 1px solid #E4E4E4;
+	background-color: #FFFFFF;
+}
+.everyBox input.data-v-0cf7b6f2{
+	font-size: 28rpx;
+}
+.whereAddress.data-v-0cf7b6f2{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	overflow: hidden;
+}
+.arrow.data-v-0cf7b6f2{
+	width: 76rpx;
+	height: 32rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/rightArrow.png) no-repeat 50%;
+	background-size: 12rpx 24rpx;
+}
+.defaultBtn.data-v-0cf7b6f2{
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	padding-right: 20rpx;
+}
+.addressHint.data-v-0cf7b6f2{
+	width: 100%;
+	height: 24rpx;
+	color: #9b9b9b;
+	padding-top: 10rpx;
+	padding-left: 31rpx;
+}
+.saveAddress.data-v-0cf7b6f2{
+	width: calc(100% - 60rpx);
+	height: 88rpx;
+	text-align: center;
+	line-height: 88rpx;
+	background-color: #ff1558;
+	margin: 20rpx auto;
+	border-radius: 71rpx;
+	margin-top: 100rpx;
+	color: #FFFFFF;
+	font-size: 36rpx;
+}
+.detailed.data-v-0cf7b6f2{
+	padding-right: 30rpx;
+}
+.addressPopup.data-v-0cf7b6f2{
+	width: 100%;
+	height: 840rpx;
+	background-color: #FFFFFF;
+}
+.addressPopupTitle.data-v-0cf7b6f2{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	padding:  0 20rpx;
+	height: 88rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	border-bottom: 1px solid #E6E6E6;
+}
+.cancel.data-v-0cf7b6f2{
+	color: rgb(153,153,153);
+}
+.createAddressBox.data-v-0cf7b6f2{
+	height: calc(100% - 88rpx);
+}
+

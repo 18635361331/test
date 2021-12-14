@@ -1,0 +1,161 @@
+
+.commonPageTitle.data-v-7efe739e{
+	padding-top: 20rpx;
+
+
+
+	background-color: #F4F4F4;
+	min-height: 100vh;
+}
+.everyCard.data-v-7efe739e{
+	width: calc(100% - 40rpx);
+	margin: 0 auto;
+	margin-bottom: 20rpx;
+	background-color: #FFFFFF;
+	padding: 20rpx;
+	border-radius: 36rpx;
+}
+.cardTitle.data-v-7efe739e{
+	color: #999999;
+	text-align: right;
+	margin: 10rpx 0;
+	font-size: 24rpx;
+}
+.goodsInfo.data-v-7efe739e{
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.goodsImage.data-v-7efe739e{
+	min-width: 154rpx;
+	min-height: 154rpx;
+	border-radius: 12rpx;
+	margin-right: 16rpx;
+	border-radius: 4rpx;
+	overflow: hidden;
+}
+.goodsPrice.data-v-7efe739e{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.goodsName.data-v-7efe739e{
+	min-width: 100%;
+}
+.price.data-v-7efe739e{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.defPrice.data-v-7efe739e{
+	color: #FF1558;
+	margin-right: 24rpx;
+	font-size: 36rpx;
+}
+.defPrice .priceArrow.data-v-7efe739e{
+	font-size: 24rpx;
+}
+.unlinePrice.data-v-7efe739e{
+	font-size: 20rpx;
+	color: #999999;
+}
+.cardInfo.data-v-7efe739e{
+	width: 100%;
+	height: auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	margin-top: 30rpx;
+}
+.everyCardInfo.data-v-7efe739e{
+	min-width: 200rpx;
+}
+.everyCardInfo text.data-v-7efe739e{
+	display: block;
+	text-align: center;
+	font-size: 22rpx;
+	color: #333333;
+}
+.everyCardInfo .fontNum.data-v-7efe739e{
+	font-size: 28rpx;
+	font-weight: 700;
+	margin-bottom: 10rpx;
+}
+.line.data-v-7efe739e{
+	width: 1rpx;
+	height: 33rpx;
+	background-color: #CFCFCF;
+}
+.cardInfoBtn.data-v-7efe739e{
+	width: 100%;
+	margin-top: 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: end;
+	-webkit-justify-content: flex-end;
+	        justify-content: flex-end;
+	margin-top: 40rpx;
+}
+.cardInfoBtn view.data-v-7efe739e{
+	width: 236rpx;
+	height: 64rpx;
+	text-align: center;
+	line-height: 64rpx;
+	font-size: 26rpx;
+	border: 1rpx solid #FFFFFF;
+	border-radius: 32rpx;
+}
+.cardInfoBtn .detailBtn.data-v-7efe739e{
+	border-color: #858585;
+	color: #858585;
+}
+.cardInfoBtn .sendBtn.data-v-7efe739e{
+	border-color: #FD1858;
+	color: #FD1858;
+	margin-left: 24rpx;
+}
+.hint.data-v-7efe739e{
+	width: 100%;
+	height: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	color: #333333;
+}
+.orderNoMsg.data-v-7efe739e {
+	padding-top: 262rpx;
+	width: 360rpx;
+	margin: 0 auto;
+}
+.orderNoMsg image.data-v-7efe739e {
+	width: 100%;
+}
+.orderNoMsgText.data-v-7efe739e {
+	text-align: center;
+	color: #999999;
+	font-size: 30rpx;
+	margin-top: 55rpx;
+}
+

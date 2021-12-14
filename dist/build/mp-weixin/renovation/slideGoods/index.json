@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "goods-active": "/renovation/model_goodsActive/index",
+    "goods-cus-tag": "/renovation/model_goodsCusTag/index",
+    "goods-member": "/renovation/model_goodsMember/index",
+    "goods-price": "/renovation/model_goodsPrice/index",
+    "goods-tag": "/renovation/model_goodsTag/index"
+  }
+}

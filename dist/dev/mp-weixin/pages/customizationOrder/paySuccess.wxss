@@ -1,0 +1,365 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.pages.data-v-7fcfac66 {
+
+
+
+  margin: 0 auto;
+  min-height: 100vh;
+  background: #F5F5F5;
+}
+.flexCenter.data-v-7fcfac66, .address.data-v-7fcfac66 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.whitePart.data-v-7fcfac66, .part.data-v-7fcfac66 {
+  width: calc(100% - 38rpx);
+  margin: 20rpx auto 0;
+  background: #FFFFFF;
+  border-radius: 24rpx;
+  padding: 20rpx 18rpx;
+}
+.fixedBottom.data-v-7fcfac66, .savePart.data-v-7fcfac66 {
+  position: fixed;
+  height: calc(124rpx + constant(safe-area-inset-bottom));
+  height: calc(124rpx + env(safe-area-inset-bottom));
+  width: 100%;
+  background: #FFFFFF;
+  bottom: 0;
+  left: 0;
+  padding: 22rpx 24rpx;
+}
+.submit.data-v-7fcfac66, .savePart view.data-v-7fcfac66 {
+  height: 80rpx;
+  background: -webkit-linear-gradient(232deg, #CB6EFF 0%, #7530C1 100%);
+  background: linear-gradient(218deg, #CB6EFF 0%, #7530C1 100%);
+  text-align: center;
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  line-height: 80rpx;
+  color: #FFFFFF;
+  border-radius: 42rpx;
+}
+.savePart view.data-v-7fcfac66 {
+  width: 100%;
+  border-radius: 40rpx;
+}
+.btns.data-v-7fcfac66 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.btns view.data-v-7fcfac66 {
+  width: 206rpx;
+  height: 80rpx;
+  border: 1px solid #AEB5B8;
+  border-radius: 40rpx;
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  line-height: 80rpx;
+  color: #7E8385;
+  text-align: center;
+}
+.btns view.data-v-7fcfac66:first-child {
+  margin-right: 30rpx;
+}
+.address.data-v-7fcfac66 {
+  background: #FFFFFF;
+  border-radius: 24rpx;
+  margin: 24rpx auto 20rpx;
+  width: calc(100% - 48rpx);
+  padding: 22rpx 20rpx;
+}
+.address .local.data-v-7fcfac66 {
+  min-width: 48rpx;
+  height: 48rpx;
+  background-image: url("http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/customization_local.png");
+  background-size: 100% 100%;
+  margin-right: 20rpx;
+}
+.address .arrows.data-v-7fcfac66 {
+  width: 12rpx;
+  height: 24rpx;
+  background-image: url("http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/fill_1copy102x.png");
+  background-size: 100% 100%;
+  margin-left: 34rpx;
+}
+.address .noAddress.data-v-7fcfac66 {
+  color: #AEB5B8;
+  font-size: 28rpx;
+}
+.address .info.data-v-7fcfac66 {
+  width: 518rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  line-height: 1.4;
+}
+.address .info .top.data-v-7fcfac66 {
+  font-size: 28rpx;
+  margin-bottom: 10rpx;
+}
+.address .info .top .name.data-v-7fcfac66 {
+  color: #333333;
+  margin-right: 20rpx;
+}
+.address .info .top .tel.data-v-7fcfac66 {
+  color: #AEB5B8;
+}
+.address .info .detail.data-v-7fcfac66 {
+  font-size: 22rpx;
+  color: #333333;
+}
+.pages.data-v-7fcfac66 {
+  padding-top: 1px;
+  padding-bottom: 40rpx;
+}
+.part.data-v-7fcfac66 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.part.head.data-v-7fcfac66 {
+  padding: 0 18rpx 24rpx 0;
+}
+.part .img.data-v-7fcfac66 {
+  width: 206rpx;
+}
+.part .right.data-v-7fcfac66 {
+  width: calc(100% - 210rpx);
+  margin-top: 26rpx;
+}
+.part .right .info.data-v-7fcfac66 {
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #323232;
+  margin-top: 14rpx;
+}
+.part .right > text.data-v-7fcfac66 {
+  font-size: 36rpx;
+  font-family: PingFang SC;
+  font-weight: bold;
+  color: #323232;
+  display: inline-block;
+}
+.part .btns.data-v-7fcfac66 {
+  margin-top: 30rpx;
+}
+.hint.data-v-7fcfac66 {
+  padding: 14rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.hint .roll.data-v-7fcfac66 {
+  width: 55rpx;
+  height: 53rpx;
+  background-size: 100% 100%;
+  background-image: url("http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/customization_roll.png");
+  margin-right: 14rpx;
+}
+.hint .text.data-v-7fcfac66 {
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #7E8385;
+}
+.hint .text text.data-v-7fcfac66 {
+  color: #7530C1;
+  margin-left: 4rpx;
+}
+.outline.data-v-7fcfac66 {
+  width: calc(100% - 38rpx);
+  background: #E4CCFF;
+  border-radius: 16rpx;
+  padding: 10rpx 24rpx 20rpx 16rpx;
+  margin: 20rpx auto;
+}
+.headline.data-v-7fcfac66 {
+  width: 546rpx;
+  left: -30rpx;
+  height: 60rpx;
+  position: relative;
+  padding-left: 112rpx;
+  margin: 54rpx 0 24rpx;
+  background: -webkit-linear-gradient(left, #9B3FFF 0%, #C670FE 28%, rgba(219, 145, 255, 0) 100%);
+  background: linear-gradient(90deg, #9B3FFF 0%, #C670FE 28%, rgba(219, 145, 255, 0) 100%);
+}
+.headline text.data-v-7fcfac66 {
+  font-size: 32rpx;
+  font-family: PingFang SC;
+  font-weight: bold;
+  line-height: 60rpx;
+  color: #FFFFFF;
+}
+.headline .bg.data-v-7fcfac66 {
+  width: 98rpx;
+  height: 98rpx;
+  position: absolute;
+  top: -22rpx;
+  left: 0;
+  background-size: 100% 100%;
+}
+.headline .bg.bg1.data-v-7fcfac66 {
+  background-image: url("http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/customization_hot.png");
+}
+.headline .bg.bg2.data-v-7fcfac66 {
+  background-image: url("http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/customization_hot2.png");
+}
+.headline .bg.bg3.data-v-7fcfac66 {
+  background-image: url("http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/customization_hot3.png");
+}
+.bank.data-v-7fcfac66 {
+  height: 342rpx;
+  background-size: 100% 100%;
+  border-radius: 20rpx;
+  padding: 10rpx 24rpx;
+}
+.bank .list.data-v-7fcfac66 {
+  margin-bottom: 10rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.bank .list.data-v-7fcfac66:first-child {
+  margin-top: 110rpx;
+  margin-bottom: 40rpx;
+}
+.bank .name.data-v-7fcfac66 {
+  width: 110rpx;
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #FFFFFF;
+  opacity: 0.7;
+}
+.bank .content.data-v-7fcfac66 {
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #FFFFFF;
+}
+.bank .copy.data-v-7fcfac66 {
+  width: 104rpx;
+  height: 60rpx;
+  background: -webkit-linear-gradient(233deg, #BB53FF 0%, #6D0DFE 100%);
+  background: linear-gradient(217deg, #BB53FF 0%, #6D0DFE 100%);
+  border-radius: 34rpx;
+  line-height: 60rpx;
+  text-align: center;
+  margin-left: 30rpx;
+  color: #F2E6FF;
+  font-size: 24rpx;
+}
+.infos.data-v-7fcfac66 {
+  margin-top: 28rpx;
+}
+.infos > view.data-v-7fcfac66 {
+  margin-bottom: 20rpx;
+}
+.infos .diamond.data-v-7fcfac66, .infos .info.data-v-7fcfac66 {
+  display: inline-block;
+  vertical-align: text-top;
+}
+.infos .diamond.data-v-7fcfac66 {
+  min-width: 8rpx;
+  min-height: 8rpx;
+  background: #7530C1;
+  border-radius: 1px;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  margin-right: 10rpx;
+  margin-top: 12rpx;
+}
+.infos .info.data-v-7fcfac66 {
+  width: calc(100% - 18rpx);
+  font-size: 22rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #3E1A66;
+}
+.turnover.data-v-7fcfac66 {
+  background: #F8F2FF;
+  border-radius: 24rpx;
+  padding: 24rpx 32rpx;
+}
+.turnover .title.data-v-7fcfac66, .turnover .list.data-v-7fcfac66 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  line-height: 1;
+}
+.turnover .title > view.data-v-7fcfac66, .turnover .title > text.data-v-7fcfac66, .turnover .list > view.data-v-7fcfac66, .turnover .list > text.data-v-7fcfac66 {
+  width: 32%;
+  text-align: center;
+}
+.turnover .title.data-v-7fcfac66 {
+  font-size: 26rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #666666;
+  margin-bottom: 16rpx;
+}
+.turnover .list.data-v-7fcfac66 {
+  margin-top: 12rpx;
+  height: 70rpx;
+  background: #F2E6FF;
+  border-radius: 36rpx;
+}
+.turnover .time.data-v-7fcfac66 {
+  color: #666666;
+  font-weight: 500;
+}
+.turnover .time text.data-v-7fcfac66:first-child {
+  font-size: 24rpx;
+  display: block;
+}
+.turnover .time text.data-v-7fcfac66:nth-child(2) {
+  font-size: 20rpx;
+}
+.turnover .money.data-v-7fcfac66, .turnover .surplus.data-v-7fcfac66 {
+  font-size: 24rpx;
+  font-weight: 500;
+  color: #666666;
+}
+

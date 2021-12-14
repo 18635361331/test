@@ -1,0 +1,211 @@
+
+.cardList.data-v-841e485e{
+	width: 100%;
+	height: calc(100vh - 300rpx);
+	background-color: #FFFFFF;
+}
+.cardTitle.data-v-841e485e{
+	width: 100%;
+	height: 100rpx;
+	text-align: center;
+	line-height: 100rpx;
+	border-bottom: 1rpx solid #E4E4E4;
+}
+.giftCardList.data-v-841e485e{
+	height: calc(100% - 200rpx);
+	background-color: #FFFFFF;
+}
+.everyRowParent.data-v-841e485e{
+	width: 100%;
+	padding: 12px;
+	position: relative;
+	border-bottom: 1rpx solid #E4E4E4;
+}
+.everyRow.data-v-841e485e {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.mask.data-v-841e485e{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	background: rgba(255,255,255,0.3);
+	z-index: 1;
+}
+.giftCardInfo.data-v-841e485e{
+	width: 100%;
+	height: 68px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.giftCardImage.data-v-841e485e{
+	width: 90px;
+	height: 68px;
+	position: relative;
+	margin-right: 12px;
+	border-radius: 10rpx;
+	overflow: hidden;
+}
+.giftCardImage image.data-v-841e485e{
+	width: 100%;
+	height: 100%;
+}
+.giftCardHint.data-v-841e485e{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 16px;
+	font-size: 8px;
+	background-color: rgba(0,0,0,0.4);
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 16px;
+}
+.giftCardText.data-v-841e485e{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	height: 68px;
+	position: relative;
+}
+.giftCardName.data-v-841e485e{
+	width: 100%;
+	height: 24px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.giftCardType.data-v-841e485e{
+	display: inline-block;
+	width: 40px;
+	height: 16px;
+	background-color: #FF1558;
+	color-interpolation: #fff;
+	color: #FFFFFF;
+	border-radius: 50px;
+	text-align: center;
+	line-height: 16px;
+	font-size: 10px;
+	margin-left: 20rpx;
+}
+.sureBtn.data-v-841e485e{
+	width: 100%;
+	height: 100rpx;
+	text-align: center;
+	line-height: 100rpx;
+	color: #FFFFFF;
+	background-color: #FF1558;
+}
+.giftCardRange.data-v-841e485e{
+	width: 100%;
+	height: 15px;
+	line-height: 15px;
+	color: #999999;
+	padding-right: 20px;
+	font-size: 11px;
+}
+.giftPrice.data-v-841e485e{
+	font-size: 16PX;
+	line-height: 22px;
+	color: #FF1558;
+	height: 22px;
+}
+.giftCardPriceInfo.data-v-841e485e{
+	width: 100%;
+	height: 17px;
+	line-height: 17px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	color: #002537;
+	position: relative;
+	font-size: 12px;
+	margin-top: 12px;
+}
+.giftCardPriceAll.data-v-841e485e{
+	width: auto;
+	margin-right: 40rpx;
+}
+.giftCardPriceAll text.data-v-841e485e{
+	color: #FF1558;
+}
+.payChooseBtn.data-v-841e485e {
+	width: 36rpx;
+	height: 36rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/oval_3copy4@2x.png) no-repeat 50%;
+	background-size: 36rpx 36rpx;
+	position: absolute;
+	right: 20rpx;
+	top: 80rpx;
+}
+.payChooseBtn.active.data-v-841e485e {
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/subr.png) no-repeat 50%;
+	background-size: 36rpx 36rpx;
+}
+.detailsBtn.data-v-841e485e{
+	width: 80rpx;
+	height: 17px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	position: absolute;
+	right: 0rpx;
+	bottom: 0;
+	color: #666666;
+}
+.arrowIcon.data-v-841e485e{
+	width: 20rpx;
+	height: 10rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/coupon_cannotusearrow@2x.png) no-repeat 50%;
+	background-size: 20rpx 10rpx;
+	margin-left: 10rpx;
+}
+.arrowIcon.active.data-v-841e485e{
+	-webkit-transform: rotate(180deg);
+	        transform: rotate(180deg);
+}
+.giftCardDetailsTitle.data-v-841e485e{
+	width: 100%;
+	padding: 24px 0 6px;
+	color: #333;
+	line-height: 16px;
+}
+.goodsList.data-v-841e485e{
+	width: 100%;
+}
+.goodsListParent.data-v-841e485e{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+}
+.everyGoodsRow.data-v-841e485e{
+	width: 90px;
+	margin-right: 12px;
+}
+.everyGoodsRow image.data-v-841e485e{
+	width: 90px;
+	height: 90px;
+}
+.goodsName.data-v-841e485e{
+	width: 100%;
+	height: 28px;
+	text-align: center;
+	line-height: 14px;
+	margin-top: 5px;
+	font-size: 11px;
+	color: #999999;
+}
+

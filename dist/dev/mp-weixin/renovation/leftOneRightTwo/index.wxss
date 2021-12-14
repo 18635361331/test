@@ -1,0 +1,24 @@
+
+.bigbox.data-v-41063178 {
+	width: 100%;
+	height: auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.bigboxImg.data-v-41063178 {
+	width: 50%;
+	height: 100%;
+}
+.littleBoxImg.data-v-41063178 {
+	width: 50%;
+	height: 100%;
+}
+.littleBoxImg view.data-v-41063178 {
+	height: 50%;
+	width: 100%;
+}
+.littleBoxImg view  image.data-v-41063178{
+	display: block;
+}
+

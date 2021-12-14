@@ -1,0 +1,90 @@
+
+.payPopup.data-v-35d8862b {
+	width: 100%;
+	height: 778rpx;
+	background-color: #FFFFFF;
+}
+.payPopupTitle.data-v-35d8862b {
+	width: 100%;
+	height: 100rpx;
+	position: relative;
+	text-align: center;
+	line-height: 100rpx;
+	font-size: 32rpx;
+}
+.closePopup.data-v-35d8862b {
+	width: 88rpx;
+	height: 88rpx;
+	position: absolute;
+	top: 12rpx;
+	left: 0;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/page_1@2x.png) no-repeat 50%;
+	background-size: 12rpx 24rpx;
+}
+.codeHint.data-v-35d8862b {
+	width: 100%;
+	line-height: 40rpx;
+	background-color: #fff6e1;
+	color: #ff7e18;
+	padding: 22rpx 32rpx;
+	font-size: 24rpx;
+}
+.codeHint image.data-v-35d8862b {
+	width: 20rpx;
+	height: 20rpx;
+	margin-right: 12px;
+}
+.codeTitle.data-v-35d8862b {
+	width: 100%;
+	line-height: 40rpx;
+	color: #333333;
+	text-align: center;
+	font-size: 26rpx;
+	margin-top: 57rpx;
+}
+.setPW-info.data-v-35d8862b {
+	width: 100%;
+	text-align: center;
+	line-height: 88rpx;
+	height: 88rpx;
+	font-size: 34rpx;
+	color: #2D2D2D;
+	margin-bottom: 24rpx;
+	margin-top: 74rpx;
+}
+.getCode.data-v-35d8862b {
+	width: 620rpx;
+	margin: 0 auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	color: rgb(51, 51, 51);
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	padding: 12rpx;
+	border: 1rpx solid #E4E4E4;
+	border-radius: 8rpx;
+	margin-top: 74rpx;
+}
+.getCode input.data-v-35d8862b {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	height: 88rpx;
+	text-align: left;
+	padding-left: 20rpx;
+}
+.sureBtn.data-v-35d8862b{
+	width: 100%;
+	height: 100rpx;
+	text-align: center;
+	line-height: 100rpx;
+	background-color: #FF1558;
+	color: #FFFFFF;
+	margin-top: 240rpx;
+}
+

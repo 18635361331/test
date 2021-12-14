@@ -1,0 +1,167 @@
+
+.page.data-v-a48ac700 {
+	padding-top: 20rpx;
+
+
+
+	height: 100vh;
+	
+	background: #F4F5F6;
+}
+.tabTitle.data-v-a48ac700{
+	width: 92%;
+	height: 88rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	margin: 0 auto ;
+}
+.promotionTitle view.data-v-a48ac700{
+	width: 25%;
+	text-align: center;
+	color: #999999;
+	font-size: 28rpx;
+	position: relative;
+	line-height: 1;
+}
+.promotionTitle view.data-v-a48ac700:not(:last-child)::before{
+	content: '';
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 1px;
+	height: 30rpx;
+	background: #D8D8D8;
+}
+.promotionTitle view.active.data-v-a48ac700{
+	font-size: 32rpx;
+	font-weight: bold;
+	color: #333333;
+}
+.promotionTitle .active.data-v-a48ac700::after{
+	content: '';
+	position: absolute;
+	bottom: -14px;
+	left: 50%;
+	-webkit-transform: translate(-50%,0);
+	        transform: translate(-50%,0);
+	width: 50rpx;
+	height: 10rpx;
+	background: #DE3150;
+	border-radius: 5px;
+}
+.promotionView.data-v-a48ac700{
+	width: 100%;
+	/* 224 +  130 + 30 + 40 + 88 */
+	height: calc(100vh - 424rpx);
+
+
+
+	padding-top: 20rpx;
+	padding-bottom: 2px;
+}
+.head.data-v-a48ac700{
+	margin: 20rpx 30rpx;
+	border-radius: 20rpx;
+	margin-top: 0;
+}
+.headgroup.data-v-a48ac700{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+}
+.head .list.data-v-a48ac700{
+	width: 48%;
+	height: 130rpx;
+	background: #FAFAFA;
+	border-radius: 20rpx 20rpx 0 0;
+	margin-right: 20rpx;
+	text-align: center;
+	padding: 20rpx 0;
+	font-size: 32rpx;
+	font-weight: 400;
+	color: #999999;
+	position: relative;
+}
+.head .list.active.data-v-a48ac700{
+	background: #FFFFFF;
+	color: #333333;
+}
+.head .list.active.data-v-a48ac700::after{
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	-webkit-transform: translate(-50%,0);
+	        transform: translate(-50%,0);
+	width: 50rpx;
+	height: 10rpx;
+	background: #FE325C;
+	border-radius: 6rpx;
+}
+.head .list.data-v-a48ac700:last-child{
+	margin-right: 0;
+}
+.headCen.data-v-a48ac700{
+	background: #fff;
+	padding: 20rpx 20rpx 30rpx;
+	border-radius: 0 0 20rpx 20rpx;
+}
+.money.data-v-a48ac700{
+	margin-top: 10rpx;
+	font-size: 28rpx;
+	color: #333333;
+	font-weight: bold;
+}
+.money .big.data-v-a48ac700{
+	font-size: 32rpx;
+}
+.descripition.data-v-a48ac700{
+	width: 100%;
+	background: #FFFAF1;
+	border-radius: 10rpx;
+	border: 1px solid #FFE9C8;
+	padding: 20rpx;
+	font-size: 24rpx;
+	color: #666666;
+	text-align: justify;
+	position: relative;
+}
+.descripition.data-v-a48ac700::before{
+	content: '';
+	width: 50rpx;
+	height: 50rpx;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-image: url('http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/marks.png');
+	background-size: contain;
+	z-index: 1;
+}
+.descripition text.data-v-a48ac700{
+	font-size: 28rpx;
+	font-weight: 500;
+	color: #A07435;
+	line-height: 40rpx;
+	position: relative;z-index: 2;
+}
+.descripition text.data-v-a48ac700::after{
+	content: '';
+	display: inline-block;
+	width: 2rpx;
+	height: 20rpx;
+	background: #A07435;
+	margin: 0 20rpx;
+}
+

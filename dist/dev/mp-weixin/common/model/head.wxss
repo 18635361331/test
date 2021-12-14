@@ -1,0 +1,15 @@
+
+.headBox.data-v-5b60030c{
+	width: 100%;
+	height: 100%;
+}
+.userInfoTitleImage.data-v-5b60030c{
+	width: 100%;
+	height: 100%;
+	border-radius: 6rpx;
+	background-position: 50%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	z-index: 10;
+}
+

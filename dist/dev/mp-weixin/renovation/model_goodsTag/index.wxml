@@ -1,0 +1,1 @@
+<view class="data-v-f306348a"><block wx:if="{{params.customizeFlag}}"><view class="cusHintIcon data-v-f306348a"></view></block><block wx:if="{{params.presaleFlag}}"><view class="openKing data-v-f306348a">预售</view></block></view>

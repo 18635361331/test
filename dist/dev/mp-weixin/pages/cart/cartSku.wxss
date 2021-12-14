@@ -1,0 +1,105 @@
+
+.skuBox.data-v-bb3f0832{
+		width: 100%;
+		height: 850rpx;
+		min-height: 752rpx;
+
+
+
+		background-color: #FFFFFF;
+		position: relative;
+}
+.closeBtn.data-v-bb3f0832{
+		width: 60rpx;
+		height: 60rpx;
+		background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/group_2@2x.png) no-repeat 50%;
+		background-size: 40rpx;
+		position: absolute;
+		top: 10rpx;
+		right: 10rpx;
+}
+.goodsInfo.data-v-bb3f0832{
+		padding-top: 28rpx;
+}
+.goodsInfo image.data-v-bb3f0832{
+		width: 200rpx;
+		height: 200rpx;
+		border-radius: 6rpx;
+		border: 1px solid #E4E4E4;
+		margin-left: 28rpx;
+}
+.goodsSpces.data-v-bb3f0832{
+		width: calc(100% - 264rpx);
+		margin-left: 24rpx;
+		display: inline-block;
+}
+.spceList.data-v-bb3f0832{
+		padding: 30rpx 0 36rpx;
+		margin-left: 25rpx;
+		border-bottom: 1px solid #E4E4E4;
+}
+.spceTitle.data-v-bb3f0832{
+		font-size: 30rpx;
+		color: #333333;
+		line-height: 32rpx;
+}
+.spceLabel.data-v-bb3f0832{
+		width: 98%;
+}
+.spceLabel text.data-v-bb3f0832{
+		min-width: 126rpx;
+		border-radius: 35rpx;
+		padding: 0 16rpx;
+		height: 50rpx;
+		line-height: 50rpx;
+		text-align: center;
+		margin-right: 24rpx;
+		display: inline-block;
+		margin-top: 24rpx;
+		font-size: 26rpx;
+		background-color: #f5f5f9;
+}
+.spceLabel text.active.data-v-bb3f0832{
+		background: #ff1558;
+		color: #FFFFFF;
+}
+.spceLabel text.null.data-v-bb3f0832{
+		background: #F5F5F9;
+		color: #CCCCCC;
+		border: none;
+}
+.goodsStock.data-v-bb3f0832,.goodsSpceSku.data-v-bb3f0832{
+		color: #666666;
+		margin-top: 7rpx;
+		font-size: 24rpx;
+		line-height: 31rpx;
+}
+.goodsSpceSku.data-v-bb3f0832{
+		color: #333333;
+}
+.goodsPrice.data-v-bb3f0832{
+		font-size: 32rpx;
+		color: #FF1558;
+		line-height: 42rpx;
+}
+.goodsPrice text.data-v-bb3f0832{
+		font-size: 24rpx;
+}
+.spceBox.data-v-bb3f0832{
+		height: 524rpx;
+		width: 100%;
+}
+.newSubmit.data-v-bb3f0832{
+		background: #e61446;
+		width: 100%;
+		font-size: 16px;
+		text-align: center;
+		color: #fff;
+		position: absolute;
+		bottom: 2px;
+		z-index: 999;
+		height: 44px;
+		line-height: 44px;
+}
+	
+

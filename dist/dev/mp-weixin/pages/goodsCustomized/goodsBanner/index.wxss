@@ -1,0 +1,26 @@
+
+.swiper-main.data-v-43219f64{
+	position: relative;
+}
+.indexShow.data-v-43219f64{
+      position: absolute;
+      left: 50%;
+      bottom: 20rpx;
+      background: rgba(105, 99, 99, 0.31);
+      color: #FFF;
+      font-size: 24rpx;
+      padding: 5rpx 30rpx;
+      border-radius: 30rpx;
+      -webkit-transform: translateX(-50%);
+              transform: translateX(-50%);
+}
+.swiperImg.data-v-43219f64 {
+	width: 100%;
+	height: 750rpx;
+	background-color: #FFFFFF;
+}
+.goodsVideo.data-v-43219f64{
+	width: 100%;
+	height: 100%;
+}
+

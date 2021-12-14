@@ -1,0 +1,75 @@
+
+.commonPageTitle.data-v-47e0ef24 {
+	height: 100vh;
+	background-color: #F5F5F5;
+}
+.storeMain.data-v-47e0ef24 {
+	padding: 0 30rpx;
+	width: 100%;
+	padding-top: 88rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/shop_bg.png) 50%;
+	height: 500rpx;
+	position: relative;
+	padding-top: 40rpx;
+}
+.shopInfo.data-v-47e0ef24 {
+	width: 100%;
+	height: 192rpx;
+	padding: 36rpx;
+	border-radius: 6rpx;
+	background-color: #FFFFFF;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.shopImage.data-v-47e0ef24{
+	width: 100rpx;
+	height: 100rpx;
+	background-position: 50%;
+	background-size: cover;
+}
+.shopName.data-v-47e0ef24{
+	-webkit-box-flex:1;
+	-webkit-flex:1;
+	        flex:1;
+	margin: 0 36rpx;
+	height: 100rpx;
+}
+.business.data-v-47e0ef24{
+	width: 44rpx;
+	height: 44rpx;
+	vertical-align: middle;
+}
+.shopNameTitle.data-v-47e0ef24{
+	font-size: 36rpx;
+	color: #000000;
+	margin-top: 8rpx;
+	height: 44rpx;
+	font-weight: 700;
+}
+.shopNameSpeople.data-v-47e0ef24{
+	margin-top: 10rpx;
+}
+.storeInfo.data-v-47e0ef24{
+	width:100%;
+	margin-top:6rpx;
+	padding: 36rpx;
+	background-color: #FFFFFF;
+	border-radius: 6rpx;
+}
+.storeTitle.data-v-47e0ef24{
+	font-weight: 700;
+	line-height: 44rpx;
+}
+.infoText.data-v-47e0ef24{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	height: 88rpx;
+	line-height: 88rpx;
+	color: #666666;
+}
+

@@ -1,0 +1,1 @@
+<view class="page commonPageTitle data-v-4e3c0796"><default-title vue-id="18eda402-1" dto="{{defaultTitleDto}}" class="data-v-4e3c0796" bind:__l="__l"></default-title><view class="integralHead data-v-4e3c0796"><view class="integralNum data-v-4e3c0796">{{''+pointNum+''}}</view><view class="intergraBtn data-v-4e3c0796">积分规则</view></view></view>

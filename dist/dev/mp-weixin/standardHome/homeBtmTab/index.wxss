@@ -1,0 +1,30 @@
+
+.homeTabGoods.data-v-0978fade {
+	width: 100%;
+	height: 88rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	white-space: nowrap;
+	padding-right: 36rpx;
+	background-color: #F5F5F5;
+	padding-top: 30rpx;
+}
+.homecatenav.data-v-0978fade {
+	margin-left: 24rpx;
+	font-size: 30rpx;
+	color: #333333;
+	height: 70rpx;
+	width: auto;
+}
+.homecatenav.active.data-v-0978fade {
+	font-size: 40rpx;
+	color: #FF1558;
+	font-weight: 600;
+}
+.scrollViewGoods.data-v-0978fade {
+	padding-top: 20rpx;
+	padding-bottom: 20rpx;
+	background: #F5F5F5;
+}
+

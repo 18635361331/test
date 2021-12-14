@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "推广订单明细",
+  "usingComponents": {
+    "goods-info": "/pages/promotionDetails/goodsInfo",
+    "member-info": "/pages/promotionDetails/memberInfo"
+  }
+}

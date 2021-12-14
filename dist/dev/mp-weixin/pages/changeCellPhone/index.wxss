@@ -1,0 +1,68 @@
+
+.commonPageTitle.data-v-310cbb94 {
+}
+.nextBtn.data-v-310cbb94 {
+	width: 690rpx;
+	height: 100rpx;
+	text-align: center;
+	line-height: 100rpx;
+	margin: 0 auto;
+	line-height: 100rpx;
+	padding-right: 32rpx;
+	color: #FFFFFF;
+	background-color: #FF1558;
+	border-radius: 100rpx;
+}
+.settingCont.data-v-310cbb94 {
+	width: 100%;
+	margin-bottom: 80rpx;
+}
+.msg.data-v-310cbb94 {
+	text-align: center;
+	color: #A8A8A8;
+	padding-top: 60rpx;
+}
+.oldPhone.data-v-310cbb94 {
+	font-size: 44rpx;
+	color: #686868;
+	text-align: center;
+}
+.telCode.data-v-310cbb94 {
+	width: 690rpx;
+	height: 100rpx;
+	margin: 0 auto;
+	margin-top: 36rpx;
+	border-radius: 84rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	position: relative;
+	border: 1rpx solid #DDDDDD;
+}
+.emIcon.data-v-310cbb94 {
+	width: 40rpx;
+	height: 100rpx;
+	margin-left: 40rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/telcode@2x.png) no-repeat 50%;
+	background-size: 38rpx;
+}
+.telCode input.data-v-310cbb94 {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	height: 100rpx;
+	margin-right: 22rpx;
+	margin-left: 22rpx;
+}
+.getCode.data-v-310cbb94 {
+	color: rgb(51, 51, 51);
+	width: 190rpx;
+	font-size: 30rpx;
+	line-height: 88rpx;
+	text-align: center;
+}
+.countDown.data-v-310cbb94 {
+	font-size: 28rpx;
+	width: 226rpx;
+}
+

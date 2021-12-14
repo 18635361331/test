@@ -1,0 +1,26 @@
+
+.commonPageTitle.data-v-50789bcc {
+}
+.scrollViewGoods.data-v-50789bcc {
+	padding-top: 10rpx;
+	min-height: 100vh;
+
+
+
+	background: #F5F5F5;
+}
+.orderNoMsg.data-v-50789bcc {
+	padding-top: 262rpx;
+	width: 360rpx;
+	margin: 0 auto;
+}
+.orderNoMsg image.data-v-50789bcc {
+	width: 100%;
+}
+.orderNoMsgText.data-v-50789bcc {
+	text-align: center;
+	color: #999999;
+	font-size: 30rpx;
+	margin-top: 55rpx;
+}
+

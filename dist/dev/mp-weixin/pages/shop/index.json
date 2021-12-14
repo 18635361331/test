@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "店铺",
+  "usingComponents": {
+    "home-main": "/pages/shop/homeMain",
+    "goods": "/pages/shop/goods",
+    "promotion": "/pages/shop/promotion",
+    "shangxin": "/pages/shop/shangxin",
+    "classification": "/pages/shop/classification"
+  }
+}

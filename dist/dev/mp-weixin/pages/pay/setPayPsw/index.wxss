@@ -1,0 +1,140 @@
+
+.payPopup.data-v-280b7441 {
+	width: 100%;
+	height: 578rpx;
+	background-color: #FFFFFF;
+}
+.payPopupTitle.data-v-280b7441 {
+	width: 100%;
+	height: 100rpx;
+	position: relative;
+	text-align: center;
+	line-height: 100rpx;
+	font-size: 32rpx;
+}
+.closePopup.data-v-280b7441 {
+	width: 88rpx;
+	height: 88rpx;
+	position: absolute;
+	top: 12rpx;
+	left: 0;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/page_1@2x.png) no-repeat 50%;
+	background-size: 12rpx 24rpx;
+}
+.setPW-tit.data-v-280b7441 {
+	width: 100%;
+	text-align: center;
+	line-height: 48rpx;
+	font-size: 32rpx;
+	color: #2d2d2d;
+	margin-bottom: 40rpx;
+}
+.placeSetPsw.data-v-280b7441{
+	width: 100%;
+	height: auto;
+	text-align: center;
+	margin-top: 30rpx;
+	line-height: 48rpx;
+	color: #FF1558;
+	font-size: 34rpx;
+}
+.setPW-info.data-v-280b7441{
+	width: 100%;
+	text-align: center;
+	line-height: 88rpx;
+	height: 88rpx;
+	font-size: 34rpx;
+	color: #2D2D2D;
+	margin-bottom: 24rpx;
+}
+.getCode.data-v-280b7441{
+	width: 620rpx;
+	margin: 0 auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	color: rgb(51,51,51);
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	padding: 12rpx;
+	border: 1rpx solid #E4E4E4;
+	border-radius: 8rpx;
+}
+.getCode input.data-v-280b7441{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	height: 88rpx;
+	text-align: left;
+	padding-left: 20rpx;
+}
+.sureBtn.data-v-280b7441,.closeBtn.data-v-280b7441 {
+	position: absolute;
+	right: 24rpx;
+	line-height: 100rpx;
+	top: 0;
+	font-size: 28rpx;
+}
+.closeBtn.data-v-280b7441{
+	width: 60rpx;
+	height: 60rpx;
+	background: url("http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/group_2@2x.png") no-repeat 50%;
+	background-size: 28rpx;
+	top: 20rpx;
+}
+.single.data-v-280b7441 {
+	width: 100%;
+	height: 650rpx;
+	padding-top: 57rpx;
+	padding-bottom: 20rpx;
+}
+.passwordInput.data-v-280b7441 {
+	width: 100%;
+	height: 100rpx;
+	padding-left: 30rpx;
+	position: relative;
+	line-height: 100rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.setPswBox.data-v-280b7441{
+	width: 100%;
+	height: 100rpx;
+	line-height: 100rpx;
+	text-align: center;
+	color: #FFFFFF;
+	background-color: #FF1558;
+	margin-top: 136rpx;
+}
+.passwordInput input.data-v-280b7441 {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	opacity: 0.01;
+	color: #FFFFFF;
+}
+.everyPwd.data-v-280b7441 {
+	width: 100rpx;
+	height: 100rpx;
+	line-height: 100rpx;
+	text-align: center;
+	border: 1rpx solid #DBDBDB;
+	border-radius: 16rpx;
+	margin-right: 20rpx;
+	font-size: 36rpx;
+	color: #333333;
+}
+.setPwdText.data-v-280b7441 {
+	margin-top: 80rpx;
+	text-align: center;
+	color: #787878;
+}
+
+

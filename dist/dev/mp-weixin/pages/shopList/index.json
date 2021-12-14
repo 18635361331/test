@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "three-rows-goods": "/renovation/threeRowsGoods/index"
+  }
+}

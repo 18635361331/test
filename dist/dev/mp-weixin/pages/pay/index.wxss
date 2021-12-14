@@ -1,0 +1,170 @@
+
+.commonPageTitle.data-v-32f2f1fc {
+
+
+
+	min-height: 100vh;
+	background-color: #FFFFFF;
+}
+.orderPrice.data-v-32f2f1fc {
+	width: 100%;
+	height: 80rpx;
+	text-align: center;
+	line-height: 80rpx;
+	position: relative;
+	font-size: 34rpx;
+
+	margin-top: 40rpx;
+}
+.orderAmount.data-v-32f2f1fc {
+	color: #FF1558;
+}
+.orderDetailsBtn.data-v-32f2f1fc {
+	position: absolute;
+	right: 24rpx;
+	top: 0;
+	font-size: 24rpx;
+	color: #666;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.orderDetailsBtn text.data-v-32f2f1fc {
+	display: inline-block;
+	width: 40rpx;
+	height: 80rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/coupon_cannotusearrow@2x.png) no-repeat 50%;
+	background-size: 20rpx 10rpx;
+}
+.orderPriceMain.data-v-32f2f1fc {
+	width: 100%;
+	padding: 24rpx;
+	background-color: #FFFFFF;
+}
+.everyRow.data-v-32f2f1fc {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	font-size: 24rpx;
+	color: #999999;
+	margin: 5rpx 0;
+}
+.myWalletHead.data-v-32f2f1fc {
+	margin-top: 48rpx;
+	padding: 24rpx;
+	width: 100%;
+	font-size: 34rpx;
+	color: #333333;
+	font-weight: 700;
+}
+.myWalletInfo.data-v-32f2f1fc {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding: 30rpx 24rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	position: relative;
+}
+.walletIcon.data-v-32f2f1fc,
+.alipayIcon.data-v-32f2f1fc,
+.weixinIcon.data-v-32f2f1fc {
+	width: 60rpx;
+	height: 80rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/icon_qb.png) no-repeat 50%;
+	background-size: 50rpx 50rpx;
+}
+.alipayIcon.data-v-32f2f1fc {
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/icon_zhi.png) no-repeat 50%;
+	background-size: 50rpx 50rpx;
+}
+.weixinIcon.data-v-32f2f1fc {
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/icon_weixin.png) no-repeat 50%;
+	background-size: 50rpx 50rpx;
+}
+.icon_m.data-v-32f2f1fc {
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/icon_m.png) no-repeat 50%;
+	background-size: 50rpx 50rpx;
+}
+.payText.data-v-32f2f1fc {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	line-height: 80rpx;
+	padding: 0 18rpx;
+}
+.walletText.data-v-32f2f1fc {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	padding: 0 20rpx;
+}
+.walletType.data-v-32f2f1fc {
+	height: 40rpx;
+	line-height: 40rpx;
+	color: #333333;
+}
+.walletPrice.data-v-32f2f1fc {
+	color: #999;
+	font-size: 24rpx;
+	line-height: 40rpx;
+}
+.surePayBtn.data-v-32f2f1fc {
+	width: 100%;
+	height: 100rpx;
+	background-color: #FF1558;
+	color: #FFFFFF;
+	position: fixed;
+	bottom: calc(0rpx + constant(safe-area-inset-bottom));
+	bottom: calc(0rpx + env(safe-area-inset-bottom));
+	left: 0;
+	text-align: center;
+	line-height: 100rpx;
+}
+.payPrice.data-v-32f2f1fc {
+	line-height: 80rpx;
+	font-size: 32rpx;
+	color: #333333;
+}
+.payChooseBtn.data-v-32f2f1fc {
+	width: 36rpx;
+	height: 36rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/oval_3copy4@2x.png) no-repeat 50%;
+	background-size: 36rpx 36rpx;
+	margin-left: 20rpx;
+}
+.payChooseBtn.active.data-v-32f2f1fc {
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/subr.png) no-repeat 50%;
+	background-size: 36rpx 36rpx;
+}
+.payType.data-v-32f2f1fc {
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding: 30rpx 24rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	position: relative;
+}
+.mask.data-v-32f2f1fc {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+

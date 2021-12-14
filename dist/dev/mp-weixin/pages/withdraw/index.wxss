@@ -1,0 +1,205 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.commonPageTitle.data-v-d1d30874 {
+  background: #F5F5F5;
+  height: 100vh;
+}
+.head.data-v-d1d30874 {
+  width: 100%;
+  height: 310rpx;
+  background-image: url("http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/withdrawBg.png");
+  background-size: 100%;
+  padding: 30rpx;
+}
+.head .top.data-v-d1d30874 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 30rpx;
+  font-weight: 600;
+  color: #FFFFFF;
+}
+.head .top > view.data-v-d1d30874 {
+  font-size: 24rpx;
+  font-weight: 400;
+  color: #D5902E;
+}
+.head .money.data-v-d1d30874 {
+  font-size: 40rpx;
+  font-weight: 600;
+  color: #FFFFFF;
+  margin-top: 54rpx;
+}
+.arrow-right.data-v-d1d30874 {
+  display: inline-block;
+  width: 16rpx;
+  height: 16rpx;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  border-top: 2px solid #D5902E;
+  border-right: 2px solid #D5902E;
+  margin-left: 10rpx;
+}
+.card.data-v-d1d30874 {
+  width: calc(100% - 60rpx);
+  background: #FFFFFF;
+  box-shadow: 0 4rpx 10rpx 0 rgba(0, 0, 0, 0.1);
+  border-radius: 20rpx;
+  margin: 0 auto;
+  margin-top: -66rpx;
+  padding: 20rpx 30rpx;
+}
+.card .title.data-v-d1d30874 {
+  font-size: 30rpx;
+  font-weight: 600;
+  color: #333333;
+  margin-top: 10rpx;
+}
+.center.data-v-d1d30874 {
+  margin-top: 40rpx;
+  border-bottom: 1px solid #F4F5F6;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  height: 120rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  font-size: 54rpx;
+  font-weight: 600;
+  color: #333333;
+  padding-bottom: 40rpx;
+}
+.center input.data-v-d1d30874 {
+  width: 80%;
+  height: 120rpx;
+  line-height: 120rpx;
+  font-size: 54rpx;
+  margin-left: 20rpx;
+}
+.btn.data-v-d1d30874 {
+  width: 100%;
+  height: 86rpx;
+  background: #F4F5F6;
+  border-radius: 40rpx;
+  text-align: center;
+  line-height: 86rpx;
+  font-size: 32rpx;
+  font-weight: 400;
+  color: #666666;
+  margin: 30rpx 0 20rpx;
+}
+.btn.active.data-v-d1d30874 {
+  color: #7A4730;
+  background: -webkit-linear-gradient(215deg, #F8DFC0 0%, #DAB493 100%);
+  background: linear-gradient(235deg, #F8DFC0 0%, #DAB493 100%);
+}
+.tips.data-v-d1d30874 {
+  font-size: 24rpx;
+  font-weight: 400;
+  color: #666666;
+}
+.placeholder.data-v-d1d30874 {
+  font-size: 28rpx;
+  font-weight: 400;
+  color: #999999;
+}
+.phoneModal.data-v-d1d30874 {
+  width: 100%;
+  height: 500rpx;
+  background: #FFFFFF;
+  border-radius: 20rpx 20rpx 0 0;
+  padding: 30rpx;
+}
+.phoneModal .title.data-v-d1d30874 {
+  font-size: 32rpx;
+  font-weight: 600;
+  color: #333333;
+}
+.everyInfo.data-v-d1d30874 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  border-bottom: 1rpx solid #D8D8D8;
+  padding-bottom: 20rpx;
+  margin-top: 30rpx;
+}
+.fixedInfo.data-v-d1d30874 {
+  font-size: 28rpx;
+  font-weight: 400;
+  color: #999999;
+}
+.fixedInfo text.data-v-d1d30874 {
+  color: red;
+  margin-left: 6rpx;
+}
+.placeType.data-v-d1d30874 {
+  font-size: 28rpx;
+  font-weight: 400;
+  color: #333333;
+  margin-left: 30rpx;
+  width: 280rpx;
+}
+.getCode.data-v-d1d30874 {
+  margin-left: auto;
+  text-align: center;
+  line-height: 60rpx;
+  height: 60rpx;
+  background: #333333;
+  border-radius: 40rpx;
+  font-size: 24rpx;
+  font-weight: 500;
+  color: #FFFFFF;
+  width: 180rpx;
+}
+.countDown.data-v-d1d30874 {
+  font-size: 20rpx;
+  width: 206rpx;
+  color: #CCCCCC;
+}
+.sureBtn.data-v-d1d30874 {
+  width: 100%;
+  height: 88rpx;
+  line-height: 88rpx;
+  background: #FE325C;
+  border-radius: 44rpx;
+  text-align: center;
+  margin-top: 80rpx;
+  font-size: 32rpx;
+  font-weight: 500;
+  color: #FFFFFF;
+}
+

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "购买礼卡",
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/uni-swipe-action-item/uni-swipe-action-item"],{3661:function(t,e,n){"use strict";var o=n("4c46"),u=n.n(o);u.a},"3e6a":function(t,e,n){"use strict";var o;n.d(e,"b",(function(){return u})),n.d(e,"c",(function(){return a})),n.d(e,"a",(function(){return o}));var u=function(){var t=this,e=t.$createElement;t._self._c},a=[]},"464b":function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var o=u(n("3fe2"));function u(t){return t&&t.__esModule?t:{default:t}}var a={mixins:[o.default],props:{show:{type:String,default:"none"},disabled:{type:Boolean,default:!1},autoClose:{type:Boolean,default:!0},threshold:{type:Number,default:20},leftOptions:{type:Array,default:function(){return[]}},rightOptions:{type:Array,default:function(){return[]}}},inject:["swipeaction"]};e.default=a},"4c46":function(t,e,n){},"822b":function(t,e,n){"use strict";n.r(e);var o=n("464b"),u=n.n(o);for(var a in o)["default"].indexOf(a)<0&&function(t){n.d(e,t,(function(){return o[t]}))}(a);e["default"]=u.a},"8fac":function(t,e,n){"use strict";var o=function(t){t.options.wxsCallMethods||(t.options.wxsCallMethods=[]),t.options.wxsCallMethods.push("closeSwipe"),t.options.wxsCallMethods.push("change")};e["a"]=o},f1c2:function(t,e,n){"use strict";n.r(e);var o=n("3e6a"),u=n("822b");for(var a in u)["default"].indexOf(a)<0&&function(t){n.d(e,t,(function(){return u[t]}))}(a);n("3661");var i,r=n("f0c5"),c=n("8fac"),f=Object(r["a"])(u["default"],o["b"],o["c"],!1,null,"53a22c46",null,!1,o["a"],i);"function"===typeof c["a"]&&Object(c["a"])(f),e["default"]=f.exports}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/uni-swipe-action-item/uni-swipe-action-item-create-component',
+    {
+        'components/uni-swipe-action-item/uni-swipe-action-item-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("f1c2"))
+        })
+    },
+    [['components/uni-swipe-action-item/uni-swipe-action-item-create-component']]
+]);

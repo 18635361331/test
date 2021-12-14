@@ -1,0 +1,215 @@
+
+.inviteNewBtn.data-v-5d7e6cac{
+	position: fixed;
+	bottom: 160rpx;
+	right: 20rpx;
+	width: 88rpx;
+	height: 88rpx;
+	z-index: 10;
+}
+.userTopImage.data-v-5d7e6cac{
+	width: 690rpx;
+	height: 30rpx;
+	background: url("http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/newUserBlock.png") no-repeat;
+	background-size: 690rpx 30rpx;
+}
+.userPopupBg.data-v-5d7e6cac{
+	width: 690rpx;
+	height: 576rpx;
+	background-color: #FFF5F4;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	padding-top: 38rpx;
+	position: relative;
+	margin-top: -2rpx;
+}
+.inviteTitle.data-v-5d7e6cac{
+	width: 500rpx;
+	height: 103rpx;
+	margin: 0 auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.inviteIcon.data-v-5d7e6cac{
+	width: 64rpx;
+	height: 26rpx;
+	background: url('http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/inviteIcon.png') no-repeat;
+	background-size: 100%;
+}
+.inviteReversal.data-v-5d7e6cac{
+	-webkit-transform:rotate(180deg);
+	        transform:rotate(180deg);
+}
+.inviteText.data-v-5d7e6cac{
+	width: 280rpx;
+	margin: 0 36rpx;
+	text-align: center;
+}
+.inviteTop.data-v-5d7e6cac{
+	font-size: 32rpx;
+	font-weight: 700;
+}
+.inviteBtm.data-v-5d7e6cac{
+	font-size: 40rpx;
+	font-weight: 700;
+}
+.inviteHint.data-v-5d7e6cac{
+	width: 600rpx;
+	height: 34rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	margin: 30rpx auto 44rpx;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.everyHint.data-v-5d7e6cac{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	font-size: 24rpx;
+	color: #7D301C;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.everyHint text.data-v-5d7e6cac{
+	display: inline-block;
+	width: 10rpx;
+	height: 20rpx;
+	border-radius: 5px;
+	background: -webkit-linear-gradient(top, #FFDEBA 0%, rgba(255, 108, 99, 0.44) 100%);
+	background: linear-gradient(180deg, #FFDEBA 0%, rgba(255, 108, 99, 0.44) 100%);
+	margin-right: 10rpx;
+}
+.openSharePopup.data-v-5d7e6cac{
+	width: 570rpx;
+	height: 88rpx;
+	background: -webkit-linear-gradient(326deg, #F20003 0%, #FE2C00 44%, #FF7F00 100%);
+	background: linear-gradient(124deg, #F20003 0%, #FE2C00 44%, #FF7F00 100%);
+	border-radius: 44rpx;
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 88rpx;
+	margin: 0 auto;
+	font-weight: 700;
+	margin-bottom: 40rpx;
+}
+.inviteHintText.data-v-5d7e6cac{
+	width: 590rpx;
+	font-size: 24rpx;
+	color: #7D301C;
+	margin: 0 auto;
+}
+.coupon.data-v-5d7e6cac{
+	width: 590rpx;
+	height: 144rpx;
+	background-size: 100% 100%;
+	margin: 6rpx auto 0;
+	position: relative;
+}
+.termValidity.data-v-5d7e6cac{
+	position: absolute;
+	bottom: 20rpx;
+	left: 20rpx;
+	color: #875C3F;
+	font-size: 20rpx;
+}
+.couponType.data-v-5d7e6cac{
+	position: absolute;
+	left: 185rpx;
+	top: 30rpx;
+	color: #42342D;
+	font-size: 32rpx;
+	font-weight: 700;
+}
+.couponPrice.data-v-5d7e6cac{
+	position: absolute;
+	left: 30rpx;
+	bottom: 66rpx;
+	font-size: 80rpx;
+	height: 80rpx;
+	color: #F42041;
+	vertical-align: bottom;
+	font-weight: 700;
+}
+.couponPrice text.data-v-5d7e6cac{
+	font-size: 32rpx;
+	font-weight: 600;
+	margin-right: 10rpx;
+}
+.closeBtn.data-v-5d7e6cac{
+	width: 60rpx;
+	height: 60rpx;
+	position: absolute;
+	bottom: -90rpx;
+	left: 0;
+	margin: auto;
+	right: 0;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/11_close.png) no-repeat;
+	background-size: 100%;
+}
+.newUserClose.data-v-5d7e6cac{
+	bottom: -88rpx;
+}
+.shareImageBox.data-v-5d7e6cac{
+	width: 100%;
+	height: 100vh;
+	padding-top: 30rpx;
+}
+.shareParent.data-v-5d7e6cac{
+	width: calc(100vw - 40rpx);
+	height: calc(100vh - 340rpx);
+	margin: 0 auto;
+	position: relative;
+}
+.shareParent.active.data-v-5d7e6cac{
+}
+.shareParent .iamge.data-v-5d7e6cac{
+	width: 100%;
+	height: 100%;
+}
+.operateBtn.data-v-5d7e6cac{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 180rpx;
+	background-color: #FFFFFF;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	color: #666666;
+	text-align: center;
+	padding-top: 30rpx;
+}
+.operateBtn.active.data-v-5d7e6cac{
+}
+.operateBtn image.data-v-5d7e6cac{
+	width: 80rpx;
+	height: 80rpx;
+}
+.shareBtn.data-v-5d7e6cac{
+	margin-right: 120rpx;
+	position: relative;
+}
+.shareButton.data-v-5d7e6cac{
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	opacity: 0.01;
+}
+

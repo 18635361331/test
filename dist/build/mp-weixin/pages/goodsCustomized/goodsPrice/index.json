@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "share": "/pages/goodsDetails/share"
+  }
+}

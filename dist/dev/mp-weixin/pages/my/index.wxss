@@ -1,0 +1,299 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.my.data-v-4dcceeb0 {
+  width: 100%;
+  background-color: #F4F4F4;
+  padding-bottom: 20rpx;
+  min-height: 100vh;
+}
+.header.data-v-4dcceeb0 {
+  position: relative;
+  margin-bottom: 30rpx;
+}
+.headImg.data-v-4dcceeb0 {
+  width: 100%;
+}
+.myHeader.data-v-4dcceeb0 {
+  width: calc(100% - 60rpx);
+  position: absolute;
+  left: 30rpx;
+  top: 10rpx;
+}
+.myHeader .nav image.data-v-4dcceeb0 {
+  margin-bottom: 14rpx;
+}
+.userInfo.data-v-4dcceeb0 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-bottom: 40rpx;
+}
+.userInfoHead.data-v-4dcceeb0 {
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 50%;
+  overflow: hidden;
+  display: inline-block;
+}
+.orderTitle.data-v-4dcceeb0 {
+  position: relative;
+  height: 66rpx;
+}
+.orderTitle view.data-v-4dcceeb0 {
+  width: 52%;
+  position: absolute;
+  text-align: center;
+  height: 66rpx;
+}
+.orderTitle view .bg.data-v-4dcceeb0 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #FD5679;
+  box-shadow: inset 0 1px 3px 0 #ffffff;
+  border-bottom: 0;
+}
+.orderTitle view .text.data-v-4dcceeb0 {
+  position: relative;
+  z-index: 11;
+  font-size: 32rpx;
+  line-height: 66rpx;
+  font-weight: 500;
+  color: #90102F;
+}
+.orderTitle .general .bg.data-v-4dcceeb0 {
+  border-radius: 20rpx 16rpx 0 0;
+  -webkit-transform: perspective(28rpx) scale(1, 1.3) rotateX(3deg);
+          transform: perspective(28rpx) scale(1, 1.3) rotateX(3deg);
+  /* 镜头距离元素表面的位置为8px，x轴为1.1倍y轴为1.3倍，绕x轴旋转5度 */
+  -webkit-transform-origin: bottom left;
+          transform-origin: bottom left;
+  /* bottom left = left bottom = 0 100% 中心点偏移量*/
+}
+.orderTitle .customized.data-v-4dcceeb0 {
+  right: 0;
+}
+.orderTitle .customized .bg.data-v-4dcceeb0 {
+  border-radius: 16rpx 20rpx 0 0;
+  -webkit-transform: perspective(28rpx) scale(1, 1.3) rotateX(3deg);
+          transform: perspective(28rpx) scale(1, 1.3) rotateX(3deg);
+  -webkit-transform-origin: bottom right;
+          transform-origin: bottom right;
+}
+.orderTitle .active .bg.data-v-4dcceeb0 {
+  background: #fff;
+  z-index: 10;
+}
+.orderTitle .active .text.data-v-4dcceeb0 {
+  color: #333333;
+}
+.order.data-v-4dcceeb0 {
+  background: #fff;
+  border-radius: 0 0 20rpx 20rpx;
+  margin-top: -2rpx;
+}
+.orderDetails.data-v-4dcceeb0 {
+  width: 100%;
+  padding: 32rpx 0 30rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: nowrap;
+          flex-wrap: nowrap;
+}
+.orderDetails .nav.data-v-4dcceeb0 {
+  text-align: center;
+  min-width: 20%;
+  color: #333;
+  font-size: 24rpx;
+  position: relative;
+}
+.orderDetails .nav image.data-v-4dcceeb0 {
+  width: 60rpx;
+  height: 60rpx;
+}
+.loginName.data-v-4dcceeb0, .userName > text.data-v-4dcceeb0 {
+  font-size: 36rpx;
+  color: #FFFFFF;
+  padding-right: 20rpx;
+}
+.userName.data-v-4dcceeb0 {
+  margin-left: 30rpx;
+  max-width: 460rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.userName.noRole.data-v-4dcceeb0 {
+  margin-top: -48rpx;
+}
+.userName > text.data-v-4dcceeb0 {
+  width: 100%;
+}
+.userName .memberIcon.data-v-4dcceeb0, .userName .partnerIcon.data-v-4dcceeb0 {
+  height: 40rpx;
+  border-radius: 20rpx;
+  padding: 0 22rpx 0 14rpx;
+  margin-top: 14rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+.userName .memberIcon .icon.data-v-4dcceeb0, .userName .partnerIcon .icon.data-v-4dcceeb0 {
+  background-size: 100% 100%;
+}
+.userName .memberIcon text.data-v-4dcceeb0, .userName .partnerIcon text.data-v-4dcceeb0 {
+  margin-left: 12rpx;
+  font-size: 20rpx;
+  line-height: 1;
+}
+.userName .memberIcon .memberColor.data-v-4dcceeb0, .userName .partnerIcon .memberColor.data-v-4dcceeb0 {
+  -webkit-animation: example-data-v-4dcceeb0 2s infinite;
+          animation: example-data-v-4dcceeb0 2s infinite;
+  height: 120rpx;
+  width: 88rpx;
+  background: -webkit-linear-gradient(1deg, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100%);
+  background: linear-gradient(89deg, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100%);
+  -webkit-transform: rotate(207deg);
+          transform: rotate(207deg);
+  position: absolute;
+  left: -84rpx;
+  top: -40rpx;
+  z-index: 1;
+}
+.userName .memberIcon.data-v-4dcceeb0 {
+  background-color: #FCDECE;
+  color: #fff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  vertical-align: middle;
+}
+.userName .memberIcon view.data-v-4dcceeb0 {
+  width: 32rpx;
+  height: 32rpx;
+}
+@-webkit-keyframes example-data-v-4dcceeb0 {
+0% {
+    left: -84rpx;
+}
+50% {
+    left: 100%;
+}
+100% {
+    left: 100%;
+}
+}
+@keyframes example-data-v-4dcceeb0 {
+0% {
+    left: -84rpx;
+}
+50% {
+    left: 100%;
+}
+100% {
+    left: 100%;
+}
+}
+.userName .partnerIcon.data-v-4dcceeb0 {
+  background: -webkit-linear-gradient(320deg, #F7D3C0 0%, #F3B795 100%);
+  background: linear-gradient(130deg, #F7D3C0 0%, #F3B795 100%);
+  color: #333333;
+}
+.userName .partnerIcon view.data-v-4dcceeb0 {
+  width: 40rpx;
+  height: 40rpx;
+}
+.inviteCode.data-v-4dcceeb0 {
+  font-size: 24rpx;
+  font-weight: 400;
+  margin-top: 6rpx;
+  color: #fff;
+  position: absolute;
+  right: 0;
+  top: 4rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.inviteCode .code.data-v-4dcceeb0 {
+  font-size: 28rpx;
+}
+.inviteCode .copy.data-v-4dcceeb0 {
+  text-align: center;
+  width: 70rpx;
+  height: 28rpx;
+  font-size: 20rpx;
+  font-weight: 500;
+  color: #663F0A;
+  line-height: 28rpx;
+  margin-left: 10rpx;
+  background: #FFF2E2;
+  border-radius: 20rpx;
+}
+.navMarker.data-v-4dcceeb0 {
+  width: 48rpx;
+  top: -6rpx;
+  border-radius: 16rpx;
+  position: absolute;
+  height: 28rpx;
+  right: 14rpx;
+  background: #ff1558;
+  color: #fff;
+  font-size: 18rpx;
+  line-height: 28rpx;
+}
+.allIcon.data-v-4dcceeb0::before {
+  content: '';
+  position: absolute;
+  width: 6rpx;
+  height: 60rpx;
+  left: 0;
+  top: 0;
+  background-image: url("http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/orderLine.png");
+  background-size: 100% 100%;
+}
+

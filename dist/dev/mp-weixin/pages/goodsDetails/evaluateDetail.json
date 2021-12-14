@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "replay-preview": "/pages/goodsDetails/replayPreview"
+  }
+}

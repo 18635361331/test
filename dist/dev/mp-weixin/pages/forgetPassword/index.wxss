@@ -1,0 +1,71 @@
+
+.commonPageTitle.data-v-4e2aabb8 {
+	padding-top: 88rpx;
+}
+.goBackBtn.data-v-4e2aabb8 {
+	width: 88rpx;
+	height: 88rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/page_1@2x.png) no-repeat 50%;
+	background-size: 16rpx 30rpx;
+}
+.forgetBox.data-v-4e2aabb8 {
+	width: 100%;
+	height: auto;
+	padding: 24rpx 64rpx 0;
+}
+.contain.data-v-4e2aabb8 {
+	font-size: 60rpx;
+	color: #000000;
+	font-weight: 700;
+	line-height: 84rpx;
+	padding-bottom: 24rpx;
+}
+.forgetHint.data-v-4e2aabb8 {
+	color: #333333;
+}
+.forgeInput.data-v-4e2aabb8 {
+	width: 100%;
+	height: 90rpx;
+	position: relative;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	margin-bottom: 22rpx;
+	border-bottom: 1rpx solid #EEEEEE;
+	margin-top: 42rpx;
+}
+.forgeInput .input.data-v-4e2aabb8 {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	height: 90rpx;
+	line-height: 90rpx;
+	margin-right: 22rpx;
+}
+.forgeInput .input input.data-v-4e2aabb8 {
+	width: 100%;
+	height: 100%;
+}
+.sendCode.data-v-4e2aabb8 {
+	width: 160rpx;
+	text-align: right;
+	font-size: 30rpx;
+	line-height: 88rpx;
+}
+.countDown.data-v-4e2aabb8 {
+	width: 210rpx;
+	font-size: 28rpx;
+	line-height: 88rpx;
+}
+.nextBtn.data-v-4e2aabb8 {
+	width: 100%;
+	height: 88rpx;
+	line-height: 88rpx;
+	margin-top: 120rpx;
+	font-size: 36rpx;
+	color: #FFFFFF;
+	background-color: #FF1558;
+	text-align: center;
+	border-radius: 71rpx;
+}
+

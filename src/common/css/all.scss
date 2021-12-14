@@ -1,0 +1,14 @@
+$img-oss:'http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/';
+ .bgSize{
+  background-size: 100% 100%;
+ }
+ .block{
+  display: block;
+ }
+ .alginCenter{
+  display: inline-block;
+  vertical-align: middle;
+ }
+ .headTitle{
+  @extend  .block;
+ }

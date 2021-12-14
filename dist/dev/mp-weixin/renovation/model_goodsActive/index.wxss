@@ -1,0 +1,63 @@
+
+.goodsItemTags.data-v-4a142d4a {
+	line-height: 30rpx;
+}
+.goodsItemTag.data-v-4a142d4a {
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 8rpx;
+	margin-right: 8rpx;
+	color: #FF1558;
+	font-size: 18rpx;
+}
+/* .everyGoods {
+	margin-top: 10rpx;
+} */
+.superTag.data-v-4a142d4a {
+	padding: 5rpx 8rpx;
+	background-color: #242424;
+	font-size: 20rpx;
+	border-radius: 8rpx;
+	color: #FFDCBA;
+	margin-top: 8rpx;
+	margin-right: 8rpx;
+	width: auto;
+}
+.marketIngBox.data-v-4a142d4a {
+	height: 31rpx;
+	line-height: 30rpx;
+	display: inline-block;
+	padding-right: 8rpx;
+	background-color: #FBE3B2;
+	border-radius: 8rpx;
+	font-size: 20rpx;
+	margin-right: 8rpx;
+	overflow: hidden;
+}
+.marketIngBox image.data-v-4a142d4a, .marketIngBox text.data-v-4a142d4a{
+	display: inline-block;
+	vertical-align: middle;
+	line-height: 1;
+}
+.marketIngBox image.data-v-4a142d4a{
+	width: 70rpx;
+	height: 100%;
+}
+.marketIngBox .verb.data-v-4a142d4a {
+	color: #242424;
+	margin-left: 5rpx;
+}
+.objectPrice.data-v-4a142d4a {
+	color: #242424;
+}
+.newUserIcon.data-v-4a142d4a{
+	width: 100rpx;
+	height: 40rpx;
+	position: absolute;
+	left: 0;
+	top: 0;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/newUserGoodsIcon.png) no-repeat;
+	background-size:100% 100%;
+}
+
+

@@ -1,0 +1,49 @@
+
+.cusTagBox.data-v-0520a02e{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.cusTag.data-v-0520a02e{
+	width: auto;
+	height: 28rpx;
+	line-height: 24rpx;
+	text-align: center;
+	border-radius: 4rpx;
+	font-size: 20rpx;
+	padding: 0 8rpx;
+	white-space: nowrap;
+	font-weight: 400;
+	margin-right: 8rpx;
+	margin-top: 12rpx;
+	color: #FA4C7B;
+	border: 1rpx solid #DC416B;
+}
+.customize.data-v-0520a02e{
+	display: inline-block;
+	width: 88rpx;
+	height: 28rpx;
+	line-height: 28rpx;
+	text-align: center;
+	color: #FFFFFF;
+	/* background-color: #E4CCFF; */
+	/* color: #7A32CC; */
+	background: -webkit-linear-gradient(137deg, #A114E6 0%, #BF5DFF 100%);
+	background: linear-gradient(313deg, #A114E6 0%, #BF5DFF 100%);
+	border-radius:4rpx;
+	margin-right: 12rpx;
+	font-size: 20rpx;
+	font-weight: 400;
+}
+.stockNumber.data-v-0520a02e{
+	font-size: 20rpx;
+	color: #989898;
+	margin-top: 12rpx;
+}
+.stockNumber text.data-v-0520a02e{
+	vertical-align: super;
+	font-size: 18rpx;
+}
+

@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "single-goods": "/renovation/singleGoods/index",
+    "biserial-goods": "/renovation/biserialGoods/index",
+    "foot-no-more": "/components/footNoMore/index"
+  }
+}

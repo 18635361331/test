@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "digital-rolling": "/components/digital-rolling/digital-rolling",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "rights": "/pages/my/rights",
+    "agreement-popup": "/pages/my/agreementPopup"
+  }
+}

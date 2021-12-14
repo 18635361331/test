@@ -1,0 +1,114 @@
+
+.payPopup.data-v-54fd6f9c {
+	width: 100%;
+	height: 578rpx;
+	background-color: #FFFFFF;
+}
+.payPopupTitle.data-v-54fd6f9c {
+	width: 100%;
+	height: 100rpx;
+	position: relative;
+	text-align: center;
+	line-height: 100rpx;
+}
+.closePopup.data-v-54fd6f9c {
+	width: 88rpx;
+	height: 88rpx;
+	position: absolute;
+	top: 12rpx;
+	left: 0;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/page_1@2x.png) no-repeat 50%;
+	background-size: 12rpx 24rpx;
+}
+.setPW-tit.data-v-54fd6f9c {
+	width: 100%;
+	text-align: center;
+	line-height: 48rpx;
+	font-size: 32rpx;
+	color: #2d2d2d;
+	margin-bottom: 40rpx;
+}
+.setPW-info.data-v-54fd6f9c{
+	width: 100%;
+	text-align: center;
+	line-height: 88rpx;
+	height: 88rpx;
+	font-size: 34rpx;
+	color: #2D2D2D;
+	margin-bottom: 24rpx;
+}
+.getCode.data-v-54fd6f9c{
+	width: 620rpx;
+	margin: 0 auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	color: rgb(51,51,51);
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	padding: 12rpx;
+	border: 1rpx solid #E4E4E4;
+	border-radius: 8rpx;
+}
+.getCode input.data-v-54fd6f9c{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	height: 88rpx;
+	text-align: left;
+	padding-left: 20rpx;
+}
+.setPwdText.data-v-54fd6f9c {
+	margin-top: 80rpx;
+	text-align: center;
+	color: #787878;
+}
+.sureBtn.data-v-54fd6f9c {
+	position: absolute;
+	right: 24rpx;
+	line-height: 100rpx;
+	top: 0;
+}
+.passwordInput.data-v-54fd6f9c {
+	width: 100%;
+	height: 100rpx;
+	padding-left: 30rpx;
+	position: relative;
+	line-height: 100rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.passwordInput input.data-v-54fd6f9c {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	color: #FFFFFF;
+	font-size: 0;
+	opacity: 0.01;
+	z-index: 10;
+}
+.everyPwd.data-v-54fd6f9c {
+	width: 100rpx;
+	height: 100rpx;
+	line-height: 100rpx;
+	text-align: center;
+	border: 1rpx solid #DBDBDB;
+	border-radius: 16rpx;
+	margin-right: 20rpx;
+	font-size: 36rpx;
+	color: #333333;
+}
+.single.data-v-54fd6f9c {
+	width: 100%;
+	height: 650rpx;
+	padding-top: 57rpx;
+	padding-bottom: 20rpx;
+}
+

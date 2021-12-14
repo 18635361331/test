@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "order-status": "/pages/order/orderStatusBtn/orderStatus",
+    "order-group-btn": "/pages/order/orderStatusBtn/orderGroupBtn"
+  }
+}

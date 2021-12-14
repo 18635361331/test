@@ -1,0 +1,203 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.procedure.data-v-d30a3548 {
+  width: 100%;
+  height: 255rpx;
+  background-color: #FFFFFF;
+  margin-top: 20rpx;
+  padding: 24rpx;
+}
+.proceTitle.data-v-d30a3548 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-bottom: 30rpx;
+}
+.proceTitle text.data-v-d30a3548 {
+  color: #AEB5B8;
+  margin-right: 30rpx;
+}
+.proceContent.data-v-d30a3548 {
+  width: 702rpx;
+  height: 135rpx;
+  background-color: #F8F2FF;
+  border-radius: 8rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.everyProce.data-v-d30a3548 {
+  width: 100rpx;
+  font-size: 20rpx;
+  text-align: center;
+}
+.proceImage.data-v-d30a3548 {
+  width: 55rpx;
+  height: 10rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-top: -20rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.everyProce image.data-v-d30a3548 {
+  border-radius: 50%;
+  overflow: hidden;
+  width: 48rpx;
+  height: 48rpx;
+}
+.cusPrice.data-v-d30a3548 {
+  width: 100%;
+  height: auto;
+  background-color: #FFFFFF;
+  padding: 24rpx;
+  margin-top: 20rpx;
+}
+.cusPriceTitle.data-v-d30a3548 {
+  color: #323232;
+  font-size: 26rpx;
+  font-weight: 600;
+  margin-bottom: 20rpx;
+}
+.cusPirceBox.data-v-d30a3548 {
+  width: 100%;
+  border-radius: 12rpx;
+  margin: 0 auto 20rpx;
+  overflow: hidden;
+}
+.cusPriceText.data-v-d30a3548, .cusPriceContent.data-v-d30a3548 {
+  width: 100%;
+  margin: 0 auto;
+  color: #666;
+}
+.cusPriceText > view.data-v-d30a3548, .cusPriceContent > view.data-v-d30a3548 {
+  display: inline-block;
+}
+.cusPriceText.data-v-d30a3548 {
+  background: #AE66FF;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #FFFFFF;
+  text-align: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.cusPriceText > view.data-v-d30a3548 {
+  height: 144rpx;
+}
+.cusPriceText > view text.data-v-d30a3548:first-child {
+  padding-top: 16rpx;
+  display: block;
+  font-size: 22rpx;
+}
+.cusPriceText > view:not(:last-child) text.data-v-d30a3548:first-child {
+  padding-top: 44rpx;
+}
+.cusPriceText > view text.data-v-d30a3548:last-child {
+  display: block;
+  font-size: 20rpx;
+  color: #E9D6FF;
+}
+.cusPriceContent.data-v-d30a3548 {
+  height: 46rpx;
+  line-height: 46rpx;
+  font-size: 28rpx;
+  color: #666666;
+}
+.cusPriceContent.data-v-d30a3548:nth-child(2n) {
+  background: #F2E6FF;
+}
+.cusPriceContent.data-v-d30a3548:nth-child(2n+1) {
+  background: #E4CCFF;
+}
+.everyTitle.data-v-d30a3548 {
+  text-align: center;
+}
+.everyTitle.data-v-d30a3548:not(:last-child) {
+  border-right: 2rpx solid #FFFFFF;
+}
+.everyTitle.no.data-v-d30a3548 {
+  width: 70rpx;
+}
+.everyTitle.data-v-d30a3548:nth-child(2) {
+  width: 216rpx;
+}
+.everyTitle.data-v-d30a3548:nth-child(3) {
+  width: 116rpx;
+}
+.everyTitle.data-v-d30a3548:nth-child(4) {
+  width: 134rpx;
+}
+.everyTitle.data-v-d30a3548:last-child {
+  width: calc(100% - 536rpx);
+}
+.everyPage.data-v-d30a3548 {
+  width: 100%;
+  height: 100rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding-left: 24rpx;
+  background-color: #FFFFFF;
+  margin-top: 20rpx;
+}
+.serve.data-v-d30a3548 {
+  color: #AEB5B8;
+}
+.guarantee.data-v-d30a3548 {
+  margin-left: 66rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-right: 50rpx;
+}
+.guarantee text.data-v-d30a3548 {
+  display: inline-block;
+  width: 6rpx;
+  height: 6rpx;
+  border-radius: 50%;
+  background-color: #AE66FF;
+  margin-right: 10rpx;
+}
+.guarantee.kefu.data-v-d30a3548 {
+  margin: 0;
+}
+

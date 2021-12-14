@@ -1,0 +1,16 @@
+
+.biserial {
+	width: 100%;
+	height: auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.biserial image {
+	width: 50%;
+	height: auto;
+}
+

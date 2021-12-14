@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "付款结果",
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "new-user-gift": "/pages/payment/newUserGift/index",
+    "invite-new": "/pages/newUser/inviteNew"
+  }
+}

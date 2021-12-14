@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "usingComponents": {
+    "goods-details": "/pages/goodsDetails/details",
+    "goods-banner": "/pages/goodsCustomized/goodsBanner/index",
+    "shop": "/pages/goodsCustomized/shop/index",
+    "cus-price": "/pages/goodsCustomized/cusPrice/index",
+    "cus-attr": "/pages/goodsCustomized/cusAttr/index",
+    "goods-price": "/pages/goodsCustomized/goodsPrice/index",
+    "member-interests": "/pages/goodsDetails/memberInterests"
+  }
+}

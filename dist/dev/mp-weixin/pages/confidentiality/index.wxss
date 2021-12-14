@@ -1,0 +1,11 @@
+
+.page.data-v-5fc5bc80 {
+	padding-top: 30rpx;
+}
+.agreementEvery.data-v-5fc5bc80{
+	padding: 0 30rpx;
+	color: #999999;
+	margin-top: 20rpx;
+	font-size: 26rpx;
+}
+

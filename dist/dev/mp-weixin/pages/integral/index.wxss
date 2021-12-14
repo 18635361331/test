@@ -1,0 +1,86 @@
+
+.intergraBox.data-v-c6be3830{
+	width: 100%;
+	height: 100vh;
+	background: #F5F5F5;
+}
+.integraTop.data-v-c6be3830{
+	/* margin-top: 20rpx; */
+}
+.rule.data-v-c6be3830{
+	width: 150rpx;
+	height: 88rpx;
+	text-align: center;
+	line-height: 88rpx;
+	padding-right: 10px;
+	color: #FFFFFF;
+}
+.integralHead.data-v-c6be3830{
+	width: 100%;
+	height: 450rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/gift_card_headerbg@2x.png) no-repeat 50%;
+	background-size: 100% 450rpx;
+	padding-top: 130rpx;
+}
+.integralNum.data-v-c6be3830{
+	width: 100%;
+	height: 80rpx;
+	line-height: 80rpx;
+	text-align: center;
+	font-size: 72rpx;
+	color: #FFFFFF;
+}
+.intergraBtn.data-v-c6be3830{
+	width: 220rpx;
+	height: 60rpx;
+	text-align: center;
+	border-radius: 50rpx;
+	margin: 50rpx auto;
+	line-height: 56rpx;
+	border: 1rpx solid #FFFFFF;
+	font-size: 34rpx;
+	color: #FFFFFF
+}
+.fivebtnCont.data-v-c6be3830{
+	padding: 40rpx 26rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 100%;
+	background-color: #FFFFFF;
+}
+.integraText.data-v-c6be3830{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+}
+.integralBtn.data-v-c6be3830{
+	width: 120rpx;
+	font-size: 28rpx;
+	text-align: center;
+	height: 40rpx;
+	line-height: 40rpx;
+	margin-top: 4rpx;
+	border-radius: 40rpx;
+	color: #e61446;
+	border:1rpx solid #E61446;
+}
+.fivebtnCont image.data-v-c6be3830{
+	width: 48rpx;
+	height: 48rpx;
+}
+.integraText.data-v-c6be3830{
+	color: #666666;
+	height: 46rpx;
+	line-height: 46rpx;
+	padding: 0 16rpx;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	font-size: 28rpx;
+}
+.disabledBtn.data-v-c6be3830{
+	border: none;
+	color: #999999;
+}
+

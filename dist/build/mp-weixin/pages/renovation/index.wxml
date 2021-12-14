@@ -1,0 +1,1 @@
+<view class="{{['page data-v-45ad9771',this.$Route.query.url?'commonPageTitle':'']}}"><block wx:if="{{renovationInfo.componentVos}}"><view class="data-v-45ad9771"><renovation vue-id="52858137-1" compData="{{renovationInfo.componentVos}}" scrollNum="{{scrollNum}}" data-ref="scrollView" class="data-v-45ad9771 vue-ref" bind:__l="__l"></renovation></view></block></view>

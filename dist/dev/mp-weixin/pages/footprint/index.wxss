@@ -1,0 +1,21 @@
+
+.commonPageTitle.data-v-44912559 {
+
+
+
+	min-height: 100vh;
+	background-color: #F5F5F5;
+}
+.scrollViewGoods.data-v-44912559{
+	padding-top: 10rpx;
+}
+.noData.data-v-44912559{
+	width: 360rpx;
+	padding-top: 262rpx;
+	text-align: center;
+	margin: 0 auto;
+}
+.noData image.data-v-44912559{
+	width: 100%;
+}
+

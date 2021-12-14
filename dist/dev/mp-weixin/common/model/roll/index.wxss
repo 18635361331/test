@@ -1,0 +1,30 @@
+
+.rollBox.data-v-978e3a28,.swiper.data-v-978e3a28{
+	width:100%;
+	height: 100%;
+}
+.swiper-item.data-v-978e3a28{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.swiperText.data-v-978e3a28{
+	width: calc(100% - 60rpx);
+	color: #FFFFFF;
+	font-size: 24rpx;
+}
+.userInfoTitleImage.data-v-978e3a28{
+	width: 50rpx;
+	height: 50rpx;
+	border-radius: 50%;
+	background-position: 50%;
+	border: 1rpx solid #FFFFFF;
+	background-size: cover;
+	margin-right: 10rpx;
+	background-repeat: no-repeat;
+	z-index: 10;
+}
+

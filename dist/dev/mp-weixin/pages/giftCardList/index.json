@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "礼卡专区",
+  "usingComponents": {
+    "optimization": "/pages/giftCardList/optimization",
+    "recommend": "/pages/giftCardList/recommend"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "sku-choose": "/pages/goodsDetails/skuChoose",
+    "address-list-temp": "/pages/goodsDetails/addressList"
+  }
+}

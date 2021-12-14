@@ -1,0 +1,98 @@
+
+.shareBox.data-v-19041c55{
+	width: 100%;
+	height: 100vh;
+}
+.shareImage.data-v-19041c55{
+	width: 100%;
+	height: calc(100% - 360rpx);
+}
+.shareBtn.data-v-19041c55{
+	width: 100%;
+	height: 360rpx;
+	background-color: #FFFFFF;
+	border-radius: 36rpx 36rpx 0 0;
+}
+.shareBtnTitle.data-v-19041c55{
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	padding: 0 30rpx;
+	height: 80rpx;
+	border-bottom: 1rpx solid #E4E4E4;
+}
+.closeBtn.data-v-19041c55{
+	width: 30rpx;
+	height: 30rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/search_back@2x.png) no-repeat 50%; 
+	background-size: 30rpx;
+}
+.shareContent.data-v-19041c55{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+	text-align: center;
+}
+.shareContentBtn.data-v-19041c55{
+	width: 120rpx;
+	padding-top: 70rpx;
+	position: relative;
+}
+.shareButton.data-v-19041c55{
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	opacity: 0.01;
+}
+.shareContentBtn image.data-v-19041c55{
+	width: 100rpx;
+	height: 100rpx;
+}
+.shareText.data-v-19041c55{
+	margin-top: 20rpx;
+}
+.swiper.data-v-19041c55{
+	height: 100%;
+}
+.swiperItem.data-v-19041c55{
+	width:100%;
+	height: auto;
+	padding:6rpx;
+	text-align: center;
+}
+.swiperItemImage.data-v-19041c55{
+	/* width: calc(100% - 120rpx); */
+}
+.downLoadBtn.data-v-19041c55{
+	color: inherit;
+	text-decoration: none;
+}
+.guide.data-v-19041c55{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 10;
+	background: rgba(0,0,0,0.3);
+}
+.guide-cancel.data-v-19041c55{
+	width: 340rpx;
+	height: 140rpX;
+	position: absolute;
+	left: 60rpx;
+	bottom: 10rpx;
+	z-index: 12;
+}
+

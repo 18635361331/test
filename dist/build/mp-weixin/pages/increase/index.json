@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "领取详情",
+  "usingComponents": {
+    "head-img": "/common/model/head"
+  }
+}

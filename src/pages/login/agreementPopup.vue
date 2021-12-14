@@ -1,0 +1,238 @@
+<template>
+	<view class="page">
+		<uni-popup ref="popup" type="bottom">
+			<view class="collectTitle">
+				<view class="goBackBtn" @click="closePopup"></view>
+				<view class="title">
+					文器库商城用户服务协议
+				</view>
+			</view>
+			<scroll-view scroll-y="true" class="agreementPopupContent">
+				<view class="agreementEvery">
+					文器库商城用户服务协议
+				</view>
+				<view class="agreementEvery">
+					一、总则
+				</view>
+				<view class="agreementEvery">
+					1.1 文器库商城的所有权和运营权归文器库（宁波）品牌管理有限公司所有。				
+				</view>
+				<view class="agreementEvery">
+					1.2 用户在注册之前，应当仔细阅读本协议，并同意遵守本协议后方可成为注册用户。一旦注册成功，则用户与文器库商城之间自动形成协议关系，用户应当受本协议的约束。用户在使用特殊的服务或产品时，应当同意接受相关协议后方能使用。  
+				</view>
+				<view class="agreementEvery">
+					1.3 本协议则可由文器库商城随时更新，用户应当及时关注并同意，本站不承担通知义务。本站的通知、公告、声明或其它类似内容是本协议的一部分。
+				</view>
+				<view class="agreementEvery">
+					二、服务内容
+				</view>
+				<view class="agreementEvery">
+					2.1 文器库商城的具体服务内容由本站根据实际情况提供。
+				</view>
+				<view class="agreementEvery">
+					2.2 本站仅提供相关的网络服务，除此之外与相关网络服务有关的设备(如个人电脑、手机、及其他与接入互联网或移动网有关的装置)及所需的费用(如为接入互联网而支付的电话费及上网费、为使用移动网而支付的手机费)均应由用户自行负担。
+				</view>
+				<view class="agreementEvery">
+					三、用户帐号
+				</view>
+				<view class="agreementEvery">
+					3.1 用户角色：
+				</view>
+				<view class="agreementEvery">
+					粉丝用户： 经本站注册系统完成注册程序的用户即成为普通用户，可以获得本站规定普通用户所应享有的一切权限；未经认证仅享有本站规定的部分权限；
+				</view>
+				<view class="agreementEvery">
+					会员用户： 用户购买商城内礼包产品或购物达到会员升级条件即可成为会员用户，可以获得本站规定会员用户所应享有的一切权限；
+				</view>
+				<view class="agreementEvery">
+					合伙人用户：用户注册成为会员后提交对应信息申请成为平台合伙人，经由合作伙伴公司或文器库平台审核后赋予合伙人权限，审核通过后即可享受平台合伙人相关权益政策。
+				</view>
+				<view class="agreementEvery">
+					3.2 用户只能按照注册要求来进行注册。用户有义务保证密码和帐号的安全，用户利用该密码和帐号所进行的一切活动引起的任何损失或损害，由用户自行承担全部责任，本站不承担任何责任。如用户发现帐号遭到未授权的使用或发生其他任何安全问题，应立即修改帐号密码并妥善保管，如有必要，请通知本站。因黑客行为或用户的保管疏忽导致帐号非法使用，本站不承担任何责任。
+				</view>
+				<view class="agreementEvery">
+					3.3 用户角色权益：
+				</view>
+				<view class="agreementEvery">
+					粉丝用户： 用户可以浏览商城产品，并依照零售价购买；
+				</view>
+				<view class="agreementEvery">
+					会员用户： 平台会员共包含<block v-for="item,index in vipInfo">{{item.name}} <text v-if="index<vipInfo.length-1">、</text></block>{{vipInfo.length}}个会员等级，会员权益以会员模块展示的规则为准；
+				</view>
+				<view class="agreementEvery">
+					<!--  -->
+					合伙人用户：平台合伙人共包含<block v-for="item,index in partner">{{item.name}} <text v-if="index<partner.length-1">、</text></block>{{partner.length}}个合伙人等级，合伙人权益、升降级规则、提现规则等内容以合伙人模块展示的规则为准；
+				</view>
+				<view class="agreementEvery">
+					四、使用规则
+				</view>
+				<view class="agreementEvery">
+					4.1 遵守中华人民共和国相关法律法规，包括但不限于《中华人民共和国计算机信息系统安全保护条例》、《计算机软件保护条例》、《最高人民法院关于审理涉及计算机网络著作权纠纷案件适用法律若干问题的解释(法释[2004]1号)》、《全国人大常委会关于维护互联网安全的决定》、《互联网电子公告服务管理规定》、《互联网新闻信息服务管理规定》、《互联网著作权行政保护办法》和《信息网络传播权保护条例》等有关计算机互联网规定和知识产权的法律和法规、实施办法。  
+				</view>
+				<view class="agreementEvery">
+					4.2 用户对其自行发表、上传或传送的内容负全部责任，所有用户不得在本站任何页面发布、转载、传送含有下列内容之一的信息，否则本站有权自行处理并不通知用户：
+				</view>
+				<view class="agreementEvery">
+					(1)违反宪法确定的基本原则的；
+				</view>
+				<view class="agreementEvery">
+					(2)危害国家安全，泄漏国家机密，颠覆国家政权，破坏国家统一的；
+				</view>
+				<view class="agreementEvery">
+					(3)损害国家荣誉和利益的；
+				</view>
+				<view class="agreementEvery">
+					(4)煽动民族仇恨、民族歧视，破坏民族团结的；
+				</view>
+				<view class="agreementEvery">
+					(5)破坏国家宗教政策，宣扬邪教和封建迷信的； 
+				</view>
+				<view class="agreementEvery">
+					(6)散布谣言，扰乱社会秩序，破坏社会稳定的；
+				</view>
+				<view class="agreementEvery">
+					(7)散布淫秽、色情、赌博、暴力、恐怖或者教唆犯罪的；
+				</view>
+				<view class="agreementEvery">
+					(8)侮辱或者诽谤他人，侵害他人合法权益的；
+				</view>
+				<view class="agreementEvery">
+					(9)煽动非法集会、结社、游行、示威、聚众扰乱社会秩序的； 
+				</view>
+				<view class="agreementEvery">
+					(10)以非法民间组织名义活动的；
+				</view>
+				<view class="agreementEvery">
+					(11)含有法律、行政法规禁止的其他内容的。
+				</view>
+				<view class="agreementEvery">
+					五、隐私保护
+				</view>
+				<view class="agreementEvery">
+					5.1 本站不对外公开或向第三方提供单个用户的注册资料及用户在使用网络服务时存储在本站的非公开内容，但下列情况除外：
+				</view>
+				<view class="agreementEvery">
+					(1)事先获得用户的明确授权；
+				</view>
+				<view class="agreementEvery">
+					(2)根据有关的法律法规要求；
+				</view>
+				<view class="agreementEvery">
+					(3)按照相关政府主管部门的要求；
+				</view>
+				<view class="agreementEvery">
+					(4)为维护社会公众的利益。
+				</view>
+				<view class="agreementEvery">
+					5.2 本站可能会与第三方合作向用户提供相关的网络服务，在此情况下，如该第三方同意承担与本站同等的保护用户隐私的责任，则本站有权将用户的注册资料等提供给该第三方。
+				</view>
+				<view class="agreementEvery">
+					5.3 在不透露单个用户隐私资料的前提下，本站有权对整个用户数据库进行分析并对用户数据库进行商业上的利用。
+				</view>
+				<view class="agreementEvery">
+					六、版权声明
+				</view>
+				<view class="agreementEvery">
+					6.1 本协议解释权及修订权归文器库（宁波）品牌管理有限公司所有。  
+				</view>
+				<view class="agreementEvery">
+					6.2 本站特有的标识、版面设计、编排方式等版权均属文器库（宁波）品牌管理有限公司享有，未经本站许可，不得任意复制或转载。
+				</view>
+				<view class="agreementEvery">
+					七、责任声明
+				</view>
+				<view class="agreementEvery">
+				 	7.1 用户明确同意其使用本站网络服务所存在的风险及一切后果将完全由用户本人承担，文器库商城对此不承担任何责任。
+				</view>
+				<view class="agreementEvery">
+				 	7.2 本站不保证为方便用户而设置的外部链接的准确性和完整性，同时，对于该等外部链接指向的不由本站实际控制的任何网页上的内容，本站不承担任何责任。 
+				</view>
+				<view class="agreementEvery">
+				 	7.3 对于因不可抗力或本站不能控制的原因造成的网络服务中断或其它缺陷，本站不承担任何责任，但将尽力减少因此而给用户造成的损失和影响。
+				</view>
+				<view class="agreementEvery">
+				 	7.4 对于本站向用户提供的下列产品或者服务的质量缺陷本身及其引发的任何损失，本站无需承担任何责任：
+				</view>
+				<view class="agreementEvery">
+				 	(1)本站向用户免费提供的各项网络服务；
+				</view>
+				<view class="agreementEvery">
+				 	(2)本站向用户赠送的任何产品或者服务。
+				</view>
+				<view class="agreementEvery">
+				 	7.5 本站有权于任何时间暂时或永久修改或终止本服务(或其任何部分)，而无论其通知与否，本站对用户和任何第三人均无需承担任何责任。
+				</view>
+				<view class="agreementEvery">
+				 	八、附则
+				</view>
+				<view class="agreementEvery">
+				 	8.1 本协议的订立、执行和解释及争议的解决均应适用中华人民共和国法律。
+				</view>
+				<view class="agreementEvery">
+				 	8.2 如本协议中的任何条款无论因何种原因完全或部分无效或不具有执行力，本协议的其余条款仍应有效并且有约束力。
+				</view>
+				<view class="agreementEvery">
+					8.3 本协议解释权及修订权归文器库（宁波）品牌管理有限公司所有。
+				</view>
+			</scroll-view>
+		</uni-popup>
+	</view>
+</template>
+
+<script>
+	import vipConfig from '@/common/js/vipConfig.js'
+	export default {
+		data(){
+			return{
+				vipInfo:[],
+				partner:[]
+			}
+		},
+		methods:{
+			openPopup(){	//打开服务协议
+				this.$refs.popup.open();
+			},
+			closePopup(){	//关闭会员服务协议
+				this.$refs.popup.close()
+			},
+			async getPartner(){
+				this.partner = await vipConfig.getPartner()
+			},
+			async getVipInfo(){
+				this.vipInfo = await vipConfig.getVipInfo()
+			}
+		},
+		mounted() {
+			this.getPartner()
+			this.getVipInfo()
+		}
+	}
+</script>
+
+<style scoped>
+	.commonPageTitle {
+		background-color: #F5F5F5;
+		padding-top: 88rpx;
+	}
+	
+	
+	.collectTitle .goBackBtn {
+		background-image: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/group_2@2x.png);
+        background-size: 40rpx 40rpx;
+        position: absolute;
+        top: 0;
+        right: 0;
+	}
+	
+	.agreementPopupContent{
+		height:100vh;
+		background-color: #FFFFFF;
+		padding-top: 100rpx;
+	}
+	.agreementEvery{
+		padding: 0 30rpx;
+		color: #999999;
+		margin-top: 20rpx;
+		font-size: 26rpx;
+	}
+</style>

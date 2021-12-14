@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的",
+  "navigationBarBackgroundColor": "#FF1457",
+  "usingComponents": {
+    "head-img": "/common/model/head",
+    "vip-part": "/pages/my/vipPart",
+    "money": "/pages/my/money",
+    "tools": "/pages/my/tools"
+  }
+}

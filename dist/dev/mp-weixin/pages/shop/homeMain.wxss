@@ -1,0 +1,6 @@
+
+.homeMainBox.data-v-e32303f0{
+	width: 100%;
+	height: calc(100vh - 316rpx);
+}
+

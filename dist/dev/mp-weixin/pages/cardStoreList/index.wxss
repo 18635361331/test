@@ -1,0 +1,41 @@
+
+.cardStore.data-v-70b642c9{
+	padding-top: 88rpx;
+}
+.shopListTitle.data-v-70b642c9{
+	width: 100%;
+	padding: 20rpx 24rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.shopListTitle image.data-v-70b642c9{
+	width: 123rpx;
+	height: 123rpx;
+	border: 1px solid #EEEEEE;
+	border-radius: 12rpx;
+}
+.shopName.data-v-70b642c9{
+	line-height: 123rpx;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	font-weight: 700;
+	font-size: 30rpx;
+	padding: 0 30rpx;
+}
+.goShop.data-v-70b642c9{
+	width: 112rpx;
+	height: 50rpx;
+	line-height: 50rpx;
+	border-radius: 40rpx;
+	font-size: 28rpx;
+	color: #FF1558;
+	text-align: center;
+	margin-top: 40rpx;
+	background-color: #FFECF1;
+}
+.shopContent.data-v-70b642c9{
+	padding: 8rpx 36rpx;
+}
+

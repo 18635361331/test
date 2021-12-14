@@ -1,0 +1,26 @@
+
+.editNick.data-v-1ba9fb74{
+	padding: 0 65rpx;
+}
+.editNickName input.data-v-1ba9fb74{
+	color: #999999;
+	font-size: 28rpx;
+}
+.editNickName.data-v-1ba9fb74{
+	width: 100%;
+	padding-top: 90rpx;
+	padding-bottom: 10rpx;
+	border-bottom: 1px solid #E4E4E4;
+}
+.saveSure.data-v-1ba9fb74{
+	width:100%;
+	height: 88rpx;
+	line-height: 88rpx;
+	font-size: 36rpx;
+	color: #FFFFFF;
+	background: #FF1558;
+	border-radius: 71rpx;
+	margin-top: 264rpx;
+	text-align: center;
+}
+

@@ -1,0 +1,123 @@
+
+.everyOrder{
+	width: 100%;
+	height: auto;
+	background: #fff;
+	border-bottom: 1px solid #E6E6E6;
+}
+.storeName{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 100%;
+	height: 88rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding: 0 26rpx;
+}
+.storeName image{
+	width: 32rpx;
+	height: 30rpx;
+	margin-right: 12rpx;
+	vertical-align: middle;
+}
+.everyStore{
+	padding-right: 30rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/rightArrow.png) no-repeat 100%;
+	margin-right: 4rpx;
+	background-size: 12rpx 24rpx;
+}
+.orderStatus{
+	margin-left: auto;
+	color: #FF1558;
+	display: inline-block;
+}
+.orderDetails{
+	padding: 0 26rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 100%;
+	padding: 10rpx 24rpx;
+	height: auto;
+}
+.orderDetails image{
+	width: 220rpx;
+	height: 220rpx;
+}
+.goodsDetails{
+	width: calc(100% - 220rpx);
+	height: auto;
+	padding-left: 24rpx;
+	position: relative;
+}
+.goodsName{
+	color: #333;
+	font-size: 28rpx;
+}
+.goodsSpce{
+	margin-top: 12rpx;
+	color: #999;
+}
+.goodsprice{
+	position: absolute;
+	bottom: 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	width: 100%;
+	padding-right: 24rpx;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.goodsprice .price{
+	color: #FF1558;
+	font-size: 32rpx;
+}
+.goodsprice .price text{
+	font-size: 28rpx;
+}
+.goodsprice .goodsNum{
+	color: #999;
+}
+.statistics{
+	width: 100%;
+	height: 88rpx;
+	line-height: 88rpx;
+	text-align: right;
+	padding-right: 18rpx;
+	font-size: 24rpx;
+	color: #333;
+}
+.statistics text{
+	font-size: 32rpx;
+	margin-right: 6rpx;
+}
+.deliveryTime{
+	width: calc(100% - 40rpx);
+	height: 58rpx;
+	background-color: #FEE5EB;
+	margin: 5rpx auto;
+	border-radius: 20rpx;
+	color: #FE325C;
+	font-size: 24rpx;
+	padding: 0 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	margin-bottom: 20rpx;
+}
+.deliveryTime image{
+	width: 20rpx;
+	height: 20rpx;
+	margin-right: 12rpx;
+}
+

@@ -1,0 +1,55 @@
+
+.commonPageTitle.data-v-0fe348fe{
+	padding-top: 20rpx;
+
+
+
+	background-color: #F4F4F4;
+	min-height: 100vh;
+}
+.everyIncrease.data-v-0fe348fe{
+	width: calc(100% - 40rpx);
+	height: 158rpx;
+	margin: 0 auto;
+	margin-bottom:20rpx ;
+	border-radius: 12rpx;
+	background-color: #FFFFFF;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding: 34rpx 0 34rpx 44rpx;
+}
+.userInfoHead.data-v-0fe348fe {
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 50%;
+	overflow: hidden;
+	display: inline-block;
+	margin-right: 44rpx;
+}
+.everyInfo.data-v-0fe348fe{
+	font-size: 22rpx;
+	color: #333333;
+}
+.everyInfo text.data-v-0fe348fe{
+	color: #999999;
+	display: inline-block;
+	width: 110rpx;
+	margin-bottom: 4rpx;
+	margin-right: 20rpx;
+}
+.orderNoMsg.data-v-0fe348fe {
+	padding-top: 262rpx;
+	width: 360rpx;
+	margin: 0 auto;
+}
+.orderNoMsg image.data-v-0fe348fe {
+	width: 100%;
+}
+.orderNoMsgText.data-v-0fe348fe {
+	text-align: center;
+	color: #999999;
+	font-size: 30rpx;
+	margin-top: 55rpx;
+}
+

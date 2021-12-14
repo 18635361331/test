@@ -1,0 +1,25 @@
+
+.category.data-v-0803b054{
+	width: 100%;
+	height: 110rpx;
+	line-height: 110rpx;
+	padding: 0 36rpx;
+	font-weight: 600;
+	position: relative;
+}
+.categoryChildren.data-v-0803b054{
+	width: 100%;
+	padding: 0 36rpx 32rpx;
+}
+.categoryItem.data-v-0803b054{
+	width: 325rpx;
+	height: 88rpx;
+	line-height: 88rpx;
+	padding: 0 36rpx;
+	background: #f8f8fc;
+	margin-bottom: 6rpx;
+	font-size: 24rpx;
+	display: inline-block;
+	margin-right: 6rpx;
+}
+

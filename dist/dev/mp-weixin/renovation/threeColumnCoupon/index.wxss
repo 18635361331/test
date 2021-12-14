@@ -1,0 +1,144 @@
+
+.biserialCoupon.data-v-18a3364f{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	/* padding: 0 30rpx; */
+	padding-top: 0;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.columnItem.data-v-18a3364f{
+	width: 100%;
+	border-radius: 6rpx;
+	background-size: 100% !important;
+	position: relative;
+}
+.columnItemImage.data-v-18a3364f{
+	display: block;
+}
+.lastCoupon.columnItem.data-v-18a3364f{
+	margin-right: 0;
+}
+.columnInfo.data-v-18a3364f{
+	position: absolute;
+	top: 37rpx;
+	width: 100%;
+}
+.columnNum.data-v-18a3364f{
+	height: 70rpx;
+	text-align: center;
+	overflow: hidden;
+	color: #FFFFFF;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.columnCondition.data-v-18a3364f{
+	font-size: 20rpx;
+	text-align: center;
+	line-height: 28rpx;
+	margin-top: 20rpx;
+	color: #FFFFFF;
+}
+.amount.data-v-18a3364f{
+	font-size: 70rpx;
+	font-weight: 700;
+	line-height: 70rpx;
+}
+.exchangText.data-v-18a3364f{
+	color: #333333;
+	font-weight: 500;
+	line-height: 40rpx;
+	text-align: center;
+	margin-top: 96rpx;
+}
+.exchangText text.data-v-18a3364f{
+	color: #FF1558;
+}
+.caimCouponPopup.data-v-18a3364f{
+	width: 100%;
+	height: 752rpx;
+	background-color: #FFFFFF;
+	border-radius: 32rpx 32rpx 0 0;
+}
+.caimCouponTitle.data-v-18a3364f{
+	width: 100%;
+	height: 100rpx;
+	line-height: 100rpx;
+	color: #000000;
+	text-align: center;
+	font-size: 34rpx;
+}
+.sureExchange.data-v-18a3364f{
+	width: calc(100% - 60rpx);
+	position: absolute;
+	bottom: 10rpx;
+	left: 0;
+	right: 0;
+	margin: auto;
+	height: 88rpx;
+	line-height: 88rpx;
+	color: #FFFFFF;
+	background-color: #FF1558;
+	border-radius: 8rpx;
+	text-align: center;
+}
+.contain.data-v-18a3364f{
+	width: 220rpx;
+	height: 322rpx;
+	margin: 32rpx auto 96rpx;
+	box-shadow: 0 0 36rpx 0 rgba(0,0,0,0.3);
+}
+.couponInfo.data-v-18a3364f{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/three_coupon.png) no-repeat 50%;
+	background-size: 100%;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	color: #FFFFFF;
+	height: 260rpx;
+	width: 220rpx;
+}
+.couponAmount.data-v-18a3364f{
+	font-size: 70rpx;
+	font-weight: 500;
+	line-height: 98rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.couponSymbol.data-v-18a3364f{
+	font-size: 30rpx;
+	font-weight: 500;
+}
+.couponUse.data-v-18a3364f{
+	font-size: 20rpx;
+	margin-top: 8rpx;
+	margin-bottom: 34rpx;
+}
+.couponBtn.data-v-18a3364f{
+	width: 108rpx;
+	height: 40rpx;
+	text-align: center;
+	line-height: 40rpx;
+	border-radius: 25rpx;
+	background-color: #FFFFFF;
+	color: #FF1558;
+}
+.couponPoint.data-v-18a3364f{
+	text-align: center;
+	line-height: 60rpx;
+}
+

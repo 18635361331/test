@@ -1,0 +1,43 @@
+
+.iconNav.data-v-1f507642 {
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+	background-color: #fff;
+	position: relative;
+	padding: 0 10rpx;
+	background-size: 100% 100% !important;
+}
+.everyNav.data-v-1f507642 {
+	width: 110rpx;
+	height: 130rpx;
+	margin-top: 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.navTitle.data-v-1f507642 {
+	width: 100%;
+	text-align: center;
+	margin-top: 8rpx;
+	font-size: 24rpx;
+}
+.everyNav image.data-v-1f507642 {
+	width: 88rpx;
+	height: 88rpx;
+}
+.iconBGImage.data-v-1f507642{
+	width: 100%;
+	position: absolute;
+	opacity: 0;
+	z-index: -1;
+}
+

@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "文器库商城",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "home-hear": "/standardHome/homeHeader/index",
+    "home-title-tab": "/standardHome/homeTitleTab/index",
+    "home-btm-tab": "/standardHome/homeBtmTab/index",
+    "home-index-renova": "/pages/renovation/index",
+    "renovation": "/renovation/renovationMain/index",
+    "home-popup": "/standardHome/homePopup/index"
+  }
+}

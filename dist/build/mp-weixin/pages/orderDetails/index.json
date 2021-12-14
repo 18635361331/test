@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "订单详情",
+  "usingComponents": {
+    "order-btn": "/pages/orderDetails/orderBtn/index",
+    "goods-btn": "/pages/orderDetails/goodsBtn/index"
+  }
+}

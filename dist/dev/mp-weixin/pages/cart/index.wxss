@@ -1,0 +1,516 @@
+
+.commonPageTitle.data-v-23b1b5af{
+}
+
+
+.ellipsis-one.data-v-457cfe48{
+	display: inline-block;
+	font-size: 12px;
+	color: #999;
+	line-height: 19px;
+	margin-top: 2px;
+	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAJCAYAAADQHRcxAAAAAXNSR0IArs4c6QAAAUpJREFUKBWVUDFLhWAUfYqWg4PS0NYQ5No/CKSgJRqKhDAQEbOhqehnFA0NqYgISWBUS7SF8GjqJxi0N4RDDpainQu9MKzoXTh897v3nOPxYzzPGw4GgzeGYbZs235GP1b5vj/dtu0ZRJMsGg5YaprmIQiC+XGciE860pMPy3HcMlLdwmSmrut7JF39jyHxiE860pMPa1nWqyRJZHAMiPjCNaIf/GVIe+IRn3SkJx+mKwJpG7FPMOOBUJblHU3T3kecJEkm8jw/xd0EKpZld/HO3mj/zYyGruuqOC4BGRgKgrBmGMZLFEVTZVleYbYA5MC64zgpzq/qmdEmDMO5qqpu8CsKrk9IsIfER+hn8T4Zz/Mrpmk+ErdbP5oRIY5juSiKC7SLHcGdKIobuq5Tsl79akbMNE25LMsOkWYTKc8VRdlXVbXuuXwOPgBwy4sBVfFiOAAAAABJRU5ErkJggg==) no-repeat 100%;
+	background-size: 10px 5px;
+	padding-right: 15px;
+	max-width: 100%;
+	height: 19px;
+	overflow: hidden;
+}	
+
+
+.cartContent.data-v-457cfe48 {
+	width: 100%;
+	height: calc(100vh - 100rpx);
+
+
+
+	padding-top: 88rpx;
+	background-color: #fff;
+}
+.cartContent.active.data-v-457cfe48 {
+	height: calc(100vh - 190rpx);
+}
+.goBackBtn.data-v-457cfe48 {
+	width: 88rpx;
+	height: 88rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/page_1@2x.png) no-repeat 50%;
+	background-size: 16rpx 30rpx;
+}
+.cartShopName.data-v-457cfe48 {
+	height: 68rpx;
+	color: #000000;
+	font-weight: 700;
+	margin: 0 18rpx;
+	font-size: 34rpx;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+}
+.goodsTitle.data-v-457cfe48 {
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+	height: 88rpx;
+	z-index: 1;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	background-color: #fff;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.cartTitle.data-v-457cfe48 {
+	width: calc(100% - 180rpx);
+	height: 88rpx;
+	line-height: 88rpx;
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+	text-align: center;
+	font-size: 36rpx;
+}
+.cartList.data-v-457cfe48{
+	background-color: #FFFFFF;
+}
+.goodsOperate.data-v-457cfe48 {
+	width: 116rpx;
+	height: 88rpx;
+	text-align: center;
+	line-height: 88rpx;
+	font-size: 30rpx;
+	color: #666;
+}
+.unusefulGoods.data-v-457cfe48{
+	background-color: #FFFFFF;
+}
+.cartTitleDef.data-v-457cfe48 {
+	width: 100%;
+	padding: 0 36rpx 24rpx;
+	font-size: 60rpx;
+	font-weight: 700;
+	background-color: #FFFFFF;
+}
+.everyCart.data-v-457cfe48 {
+	width: 100%;
+	padding-bottom: 50rpx;
+}
+.everyShop.data-v-457cfe48 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 100%;
+	line-height: 68rpx;
+	padding: 0 36rpx 0 18rpx;
+	height: 68rpx;
+}
+.chooseCartIcon.data-v-457cfe48 {
+	width: 68rpx;
+	height: 68rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/oval_3copy4@2x.png) no-repeat 50%;
+	background-size: 36rpx 36rpx;
+}
+.chooseCartIcon.active.data-v-457cfe48 {
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/subr.png) no-repeat 50%;
+	background-size: 36rpx 36rpx;
+}
+.everyGoods.data-v-457cfe48 {
+	height: 285rpx;
+	width: 100%;
+	padding: 0 24rpx 0 18rpx;
+	margin: 15rpx 0 28rpx;
+	background-color: #FFFFFF;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.everyGoods image.data-v-457cfe48 {
+	width: 200rpx;
+	height: 200rpx;
+}
+.goodsImage.data-v-457cfe48 {
+	width: 200rpx;
+	height: 200rpx;
+	margin: 0 24rpx 0 18rpx;
+	position: relative;
+	border-radius: 6rpx;
+	overflow: hidden;
+}
+.goodsNumWarning.data-v-457cfe48 {
+	width: 100%;
+	height: 36rpx;
+	text-align: center;
+	line-height: 36rpx;
+	background: rgba(0, 0, 0, 0.26);
+	color: #FFFFFF;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+.delGoods.data-v-457cfe48 {
+	width: 200rpx;
+	height: 285rpx;
+	background-color: #ff1558;
+	text-align: center;
+	line-height: 285rpx;
+	color: #fff;
+}
+.goodsSelectBtn.data-v-457cfe48 {
+	width: 68rpx;
+	height: 200rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/oval_3copy4@2x.png) no-repeat 50%;
+	background-size: 36rpx 36rpx;
+}
+.goodsSelectBtn.active.data-v-457cfe48 {
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/subr.png) no-repeat 50%;
+	background-size: 36rpx 36rpx;
+}
+.goodInfo.data-v-457cfe48 {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	height: 200rpx;
+	position: relative;
+}
+.goodsName.data-v-457cfe48 {
+	font-size: 24rpx;
+	color: #333333;
+}
+.goodsSpce.data-v-457cfe48 {
+	width: 100%;
+	height: 40rpx;
+	padding-right: 30rpx;
+	margin-top: 4rpx;
+	margin-top: 10rpx;
+	/* background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/coupon_cannotusearrow@2x.png) no-repeat 50%; */
+	/* background-size: 20rpx 10rpx; */
+}
+.goodsSpce text.data-v-457cfe48 {
+	width: auto;
+	color: #999999;
+	max-width: 100%;
+	font-size: 24rpx;
+}
+.goodsTips.data-v-457cfe48 {
+	width: 100%;
+	height: 28rpx;
+	line-height: 28rpx;
+	font-size: 22rpx;
+	color: #FF1558;
+}
+.goodsPrice.data-v-457cfe48 {
+	width: 100%;
+	height: 46rpx;
+	line-height: 46rpx;
+	font-size: 32rpx;
+	color: #FF1558;
+	margin-top: 8rpx;
+}
+.goodsPrice text.data-v-457cfe48 {
+	font-size: 26rpx;
+}
+.goodsNum.data-v-457cfe48 {
+	position: absolute;
+	top: 154rpx;
+	right: 14rpx;
+	background-color: #FFFFFF;
+	width: 188rpx;
+	height: 50rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.goodsNum .jia.data-v-457cfe48,
+.goodsNum .jian.data-v-457cfe48 {
+	width: 50rpx;
+	height: 50rpx;
+	text-align: center;
+	line-height: 48rpx;
+	border: 1px solid #E6E6E6;
+}
+.goodsNum input.data-v-457cfe48 {
+	width: 88rpx;
+	height: 100%;
+	text-align: center;
+	border-top: 1px solid #E6E6E6;
+	border-bottom: 1px solid #E6E6E6;
+	font-size: 24rpx;
+}
+.shopActive.data-v-457cfe48 {
+	width: 100%;
+	padding: 0 20rpx 0 24rpx;
+	height: 48rpx;
+	line-height: 48rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.shopactiveSign.data-v-457cfe48 {
+	width: 60rpx;
+	height: 24rpx;
+	line-height: 24rpx;
+	background-color: #FF1558;
+	border-radius: 100rpx;
+	color: #FFFFFF;
+	font-size: 24rpx;
+	text-align: center;
+}
+.shopactiveName.data-v-457cfe48 {
+	font-size: 24rpx;
+	color: #666666;
+	margin: 0 24rpx;
+}
+.unusefulTitle.data-v-457cfe48 {
+	width: 100%;
+	height: 68rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding: 0 44rpx 0 36rpx;
+	line-height: 68rpx;
+}
+.unusefu.data-v-457cfe48 {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	font-weight: 700;
+	font-size: 34rpx;
+	color: #000000;
+}
+.removeUnusefuList.data-v-457cfe48 {
+	font-weight: 700;
+	color: #333333;
+	font-size: 26rpx;
+}
+.removeCollection.data-v-457cfe48 {
+	width: 170rpx;
+	height: 50rpx;
+	text-align: center;
+	line-height: 50rpx;
+	border-radius: 100rpx;
+	background-color: #FF1558;
+	color: #FFFFFF;
+	position: absolute;
+	bottom: 6rpx;
+	right: 0;
+}
+.goodsStatus.data-v-457cfe48 {
+	position: absolute;
+	left: 10rpx;
+	bottom: 6rpx;
+	color: #333333;
+}
+.invalid.data-v-457cfe48 {
+	height: 200rpx;
+	width: 70rpx;
+	line-height: 200rpx;
+}
+.invalid text.data-v-457cfe48 {
+	width: 70rpx;
+	height: 36rpx;
+	line-height: 36rpx;
+	text-align: center;
+	background-color: #d8d8d8;
+	border-radius: 100rpx;
+	font-size: 24rpx;
+	color: #FFFFFF;
+	vertical-align: middle;
+	display: inline-block;
+}
+.cartLine.data-v-457cfe48 {
+	width: calc(100% - 100rpx);
+	border-bottom: 1rpx solid #E4E4E4;
+	margin-left: 100rpx;
+}
+.cartLine.line.data-v-457cfe48 {
+	margin-top: 10rpx;
+}
+.cartFooterParent.data-v-457cfe48{
+	width: 100%;
+	height: 100rpx;
+}
+.cartFoot.data-v-457cfe48 {
+	width: 100%;
+	height: 100rpx;
+	background-color: #FFFFFF;
+	border-top: 1px solid #E6E6E6;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	position: relative;
+}
+.totalNum.data-v-457cfe48 {
+	position: absolute;
+	right: 250rpx;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	line-height: 100rpx;
+	font-size: 26rpx;
+}
+.totalNum text.data-v-457cfe48 {
+	color: #FF1558;
+	font-weight: 700;
+	margin-left: 10rpx;
+}
+.couponBtn.data-v-457cfe48 {
+	font-weight: 700;
+}
+.settlementBtn.data-v-457cfe48 {
+	width: 220rpx;
+	height: 100rpx;
+	background-color: #FF1558;
+	color: #FFFFFF;
+	font-size: 32rpx;
+	position: absolute;
+	right: 0;
+	top: 0;
+	text-align: center;
+	line-height: 100rpx;
+}
+.removeCollectionBtn.data-v-457cfe48,
+.deleteALlBtn.data-v-457cfe48 {
+	position: absolute;
+	right: 196rpx;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	width: 150rpx;
+	height: 52rpx;
+	line-height: 52rpx;
+	font-size: 28rpx;
+	text-align: center;
+	border: 1px solid #666666;
+	color: #666666;
+	border-radius: 12rpx;
+}
+.deleteALlBtn.data-v-457cfe48 {
+	position: absolute;
+	right: 30rpx;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	color: #FF1558;
+	border-color: #FF1558;
+}
+.cartNoMsg.data-v-457cfe48 {
+	margin-bottom: 96rpx;
+	width: 100%;
+	text-align: center;
+	margin-top: 100rpx;
+}
+.cartNoMsg image.data-v-457cfe48 {
+	width: 270rpx;
+	height: 270rpx;
+}
+.cartNoMsgText.data-v-457cfe48 {
+	font-size: 30rpx;
+	color: #999999;
+	line-height: 44rpx;
+	margin-top: 6rpx;
+}
+.goHomeBtn.data-v-457cfe48 {
+	width: 300rpx;
+	height: 70rpx;
+	line-height: 70rpx;
+	text-align: center;
+	border-radius: 100rpx;
+	color: #FFFFFF;
+	margin: 0 auto;
+	margin-top: 30rpx;
+	font-size: 32rpx;
+	background-color: #FF1558;
+}
+.activeBox.data-v-457cfe48 {
+	width: 100%;
+	min-height: 48rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	line-height: 36rpx;
+	padding: 6rpx 0;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	margin-top: 30rpx;
+}
+.activeBox .activeBtn.data-v-457cfe48 {
+	display: inline-block;
+	height: 28rpx;
+	line-height: 26rpx;
+	text-align: center;
+	background-color: #ffeee1;
+	border-radius: 100rpx;
+	color: #ff7e18;
+	padding: 0 10rpx;
+	font-size: 24rpx;
+	border: 1rpx solid #FF1558;
+}
+.goodsInfoMsg.data-v-457cfe48 {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.goodsInfoTop.data-v-457cfe48 {
+	width: 100%;
+	height: auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.activeBox .distributionBtn.data-v-457cfe48 {
+	background-color: #242424;
+	color: #fcc28b;
+	border: none;
+	text-align: center;
+}
+.activity.data-v-457cfe48 {
+	font-size: 22rpx;
+	margin: 0 24rpx;
+}
+.everyGoods .member_identification image.data-v-457cfe48{
+	height: 26rpx;
+}
+.cartHint.data-v-457cfe48{
+	width: 100%;
+	height: 90rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	font-size: 24rpx;
+	color: #8E5B17;
+	background-color: #fbf4ea;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding: 0 20rpx;
+	font-weight: 400;
+}
+.cartHint text.data-v-457cfe48{
+	color: #333;
+	font-weight: 500;
+}
+.goBuyBtn.data-v-457cfe48{
+	color: #8E5B17;
+	font-weight: 500;
+}
+.cartHint .memberGoodsPrice.data-v-457cfe48{
+	color: #FF1558;
+}
+

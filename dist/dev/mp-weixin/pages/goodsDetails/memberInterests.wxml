@@ -1,0 +1,1 @@
+<view class="page memberInterests data-v-2f253805"><view class="title data-v-2f253805">{{''+interestsConfig.name+memberInterests.length+'大权益'}}</view><rights vue-id="94fb6cbe-1" list="{{memberInterests}}" source="detail" path="/pages/memberGiftBag/index" class="data-v-2f253805" bind:__l="__l"></rights></view>

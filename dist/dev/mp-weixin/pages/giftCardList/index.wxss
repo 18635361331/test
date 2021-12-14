@@ -1,0 +1,37 @@
+
+.giftCardList.data-v-13b2245a{
+	width: 100%;
+	padding-bottom: 98rpx;
+
+
+
+	min-height: 100vh;
+	background-color: #F5F5F5;
+}
+.giftCardTabFoot.data-v-13b2245a{
+	position: fixed;
+	bottom: 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 100%;
+	background-color: #FFFFFF;
+	z-index: 1;
+}
+.everyTab.data-v-13b2245a{
+	width: 50%;
+	height: 98rpx;
+	text-align: center;
+}
+.everyTab image.data-v-13b2245a{
+	width: 60rpx;
+	height: 60rpx;
+}
+.everyTab.active .tabText.data-v-13b2245a{
+	color: #FF1558;
+}
+.tabText.data-v-13b2245a{
+	line-height: 40rpx;
+	margin-top: -16rpx;
+}
+

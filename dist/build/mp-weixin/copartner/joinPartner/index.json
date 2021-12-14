@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "加入合伙人",
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "agreement-popup": "/copartner/joinPartner/agreementPopup",
+    "select-address": "/copartner/joinPartner/selectAddress"
+  }
+}

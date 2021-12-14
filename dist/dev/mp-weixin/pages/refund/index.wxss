@@ -1,0 +1,136 @@
+
+.commonPageTitle {
+}
+.orderNoMsg {
+	padding-top: 262rpx;
+	width: 360rpx;
+	margin: 0 auto;
+}
+.orderNoMsg image {
+	width: 100%;
+}
+.orderNoMsgText {
+	text-align: center;
+	color: #999999;
+	font-size: 30rpx;
+	margin-top: 55rpx;
+}
+.refund {
+	width: 100%;
+	background: #FFFFFF;
+	margin-bottom: 20rpx;
+}
+.refundEveryTitle {
+	width: 1005;
+	height: 80rpx;
+	line-height: 80rpx;
+	position: relative;
+	padding: 0 24rpx;
+}
+.goodsList {
+	padding: 22rpx 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	background: #fafafa;
+	height: 194rpx;
+}
+.goodsList image {
+	width: 150rpx;
+	height: 150rpx;
+	border: 1rpx solid #EEEEEE;
+	border-radius: 10rpx;
+	margin-left: 24rpx;
+}
+.goodsInfo {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	height: 150rpx;
+	margin: 0 24rpx;
+}
+.goodsName {
+	width: 1005;
+	height: 72rpx;
+	line-height: 36rpx;
+	color: #666666;
+}
+.goodsSpce {
+	width: 100%;
+	margin-top: 5rpx;
+	font-size: 24rpx;
+	line-height: 27rpx;
+	color: #999999;
+}
+.goodsPrice {
+	width: 100%;
+	height: 40rpx;
+	line-height: 40rpx;
+	color: #FF1558;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	margin-top: 10rpx;
+}
+.priceSymbol {
+	font-size: 24rpx;
+}
+.goodsNum {
+	color: #666;
+}
+.allPrice {
+	width: 100%;
+	height: 88rpx;
+	line-height: 88rpx;
+	text-align: right;
+	padding-right: 18rpx;
+	font-size: 26rpx;
+	color: #686868;
+	border-bottom: 1rpx solid #E4E4E4;
+}
+.allPrice text {
+	font-size: 28rpx;
+}
+.refundBtn {
+	height: 98rpx;
+	padding-right: 24rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: end;
+	-webkit-justify-content: flex-end;
+	        justify-content: flex-end;
+}
+.refundBox {
+	background: #F5F5F5;
+}
+.showDetails {
+	width: 150rpx;
+	height: 52rpx;
+	border: 1rpx solid #FF1558;
+	color: #FF1558;
+	border-radius: 8rpx;
+	text-align: center;
+	line-height: 50rpx;
+}
+.refundStatus {
+	position: absolute;
+	top: 0;
+	right: 210rpx;
+}
+.refundText {
+	position: absolute;
+	top: 0;
+	right: 24rpx;
+	color: #FF1558;
+}
+

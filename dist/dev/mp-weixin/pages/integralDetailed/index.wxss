@@ -1,0 +1,72 @@
+
+.commonPageTitle.data-v-2f5cbbb8 {
+
+
+
+	background-color: #F5F5F5;
+}
+.integralList.data-v-2f5cbbb8{
+	min-height: 100vh;
+
+
+
+	width: 100%;
+}
+.transiInTitle.data-v-2f5cbbb8{
+	width: 100%;
+	line-height: 98rpx;
+	font-size: 32rpx;
+	border-bottom: 1rpx solid #DBDBDB;
+	padding: 0 24rpx;
+	background-color: #FFFFFF;
+}
+.transInDetails.data-v-2f5cbbb8{
+	padding-top: 20rpx;
+	color: #999999;
+	margin-bottom: 16rpx;
+	background-color: #FFFFFF;
+}
+.transInDetails view.data-v-2f5cbbb8{
+	height: 40rpx;
+	line-height: 40rpx;
+	padding: 0 24rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.intransInBox.data-v-2f5cbbb8{
+	margin-bottom: 16rpx;
+}
+.transInDetails .intergaNum.data-v-2f5cbbb8{
+	margin-top: 20rpx;
+	font-size: 30rpx;
+	height: 98rpx;
+	line-height: 98rpx;
+	border-top: 1rpx solid #DBDBDB;
+}
+.intergaText.data-v-2f5cbbb8{
+	font-size: 34rpx;
+	color: #FF1558;
+}
+.isNull.data-v-2f5cbbb8{
+	text-align: center;
+	padding-top: 262rpx;
+	width: 360rpx;
+	margin: 0 auto;
+}
+.isNull image.data-v-2f5cbbb8 {
+	width: 100%;
+}
+.isNullText.data-v-2f5cbbb8 {
+	text-align: center;
+	color: #999999;
+	font-size: 30rpx;
+	margin-top: 55rpx;
+}
+

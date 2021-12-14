@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['e0',['$event']]]]]}}" class="page goodsDetailsStore" bindtap="__e"><view class="storeTitle"><view class="storeImage" style="{{'background-image:'+('url('+imgBaseUrls+storeInfo.images+')')+';'}}"></view><view class="store-name"><view class="storeName">{{storeInfo.name}}</view></view><view class="storeBtn">进店</view></view></view>

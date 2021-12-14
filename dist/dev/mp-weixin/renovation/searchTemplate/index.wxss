@@ -1,0 +1,41 @@
+
+.searchTemplate.data-v-867c257a,.searchTemplateBgImage.data-v-867c257a{
+	width: 100%;
+	height: 88rpx;
+	padding: 0 20rpx;
+	padding-top: 16rpx;
+}
+.searchBox.data-v-867c257a{
+	width: 100%;
+	height: 60rpx;
+	background-color: #EDEDED;
+	color: #535353;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	border-radius: 100px;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.arrowIcon.data-v-867c257a{
+	width: 60rpx;
+	height: 60rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/searchTemplate.png) no-repeat;
+	background-size: 24rpx 26rpx;
+	margin-left: 24rpx;
+	margin-top: 32rpx;
+}
+.searchText.data-v-867c257a{
+	width: 100%;
+	line-height: 64rpx;
+	font-size: 26rpx;
+	color: #535353;
+	text-align: left;
+}
+.searchTemplateBgImage.data-v-867c257a{
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+

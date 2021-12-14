@@ -1,0 +1,1 @@
+<view class="biserial"><block wx:for="{{biserialImg.imageLinkVOS}}" wx:for-item="item" wx:for-index="index" wx:key="index"><image mode="widthFix" src="{{imgBaseUrls+item.image}}" data-event-opts="{{[['tap',[['renovationGoTo',['$0'],[[['biserialImg.imageLinkVOS','',index]]]]]]]}}" bindtap="__e"></image></block></view>

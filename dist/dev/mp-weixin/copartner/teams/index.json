@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "发展团队",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "head-img": "/common/model/head"
+  }
+}

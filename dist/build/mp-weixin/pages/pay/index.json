@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "收银台",
+  "usingComponents": {
+    "set-pay-pwd": "/pages/pay/setPayPsw/index",
+    "forget-pay-psw": "/pages/pay/forgetPayPsw/index",
+    "psw-popup": "/pages/pay/passwordPopup/index",
+    "verification-code": "/pages/pay/verificationCode/index",
+    "card-list": "/pages/pay/cardList/index"
+  }
+}

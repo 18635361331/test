@@ -1,0 +1,174 @@
+
+.skuPopup.data-v-46283bd4{
+	border-radius: 28rpx 28rpx 0px 0px;
+	width: 100%;
+	height: calc(850rpx + constant(safe-area-inset-bottom));
+	height: calc(850rpx + env(safe-area-inset-bottom));
+	min-height: 752rpx;
+	background-color: #FFFFFF;
+	position: relative;
+}
+.parentBox.data-v-46283bd4{
+	width: 100%;
+	height: 100%;
+}
+.skuTitle.data-v-46283bd4{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding: 24rpx 30rpx 24rpx 24rpx;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.itemImage.data-v-46283bd4{
+	width: 120rpx;
+	height: 120rpx;
+	border: 1rpx solid #eee;
+	background-position: 50%;
+	background-size: cover;
+	background-size: 100% 100%;
+}
+.skuDetails.data-v-46283bd4{
+	width: calc(100% - 48rpx);
+	height: 120rpx;
+	margin-left: 30rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.itemName.data-v-46283bd4{
+	font-size: 24rpx;
+	color: #333333;
+}
+.spceBox.data-v-46283bd4{
+	height: 524rpx;
+	width: 100%;
+}
+.spceList.data-v-46283bd4{
+	padding: 30rpx 0 36rpx;
+	margin-left: 25rpx;
+	border-bottom: 1px solid #E4E4E4;
+}
+.spceTitle.data-v-46283bd4{
+	font-size: 30rpx;
+	color: #333333;
+	line-height: 32rpx;
+}
+.spceLabel.data-v-46283bd4{
+	width: 98%;
+}
+.spceLabel text.data-v-46283bd4{
+	min-width: 128rpx;
+	border-radius: 35rpx;
+	padding: 0 16rpx;
+	height: 64rpx;
+	line-height: 64rpx;
+	text-align: center;
+	margin-right: 24rpx;
+	display: inline-block;
+	margin-top: 24rpx;
+	font-size: 24rpx;
+	border: 1px solid #7E8385;
+	color: #7E8385;
+}
+.spceLabel text.active.data-v-46283bd4{
+	background: #E4CCFF;
+	border: none;
+	color: #7A32CC;
+}
+.spceLabel text.null.data-v-46283bd4{
+	background: #F5F5F9;
+	color: #7E8385;
+	border: none;
+}
+.spceNumOperate.data-v-46283bd4{
+	margin-top: 28rpx;
+	margin-left: 24rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	width: 400rpx;
+}
+.spceNumText.data-v-46283bd4{
+	width: 80px;
+	color: #323232;
+}
+.subtraction.data-v-46283bd4,.addition.data-v-46283bd4{
+	border: 1rpx solid #E6E6E6;
+	width: 60rpx;
+	height: 60rpx;
+	text-align: center;
+	line-height: 60rpx;
+	vertical-align: middle;
+}
+.spceNumOperate .spceNumInput.data-v-46283bd4{
+	border-top: 1rpx solid #E6E6E6;
+	border-bottom: 1rpx solid #E6E6E6;
+	height: 60rpx;
+	width: 120rpx;
+	text-align: center;
+	font-size: 24rpx;
+}
+.spceNumInput input.data-v-46283bd4{
+	font-size: 24rpx;
+	height: 60rpx;
+	line-height: 60rpx;
+}
+.subtraction.jianNull.data-v-46283bd4,.addition.jianNull.data-v-46283bd4{
+	background: #f5f4f4db;
+}
+.skuPrice.data-v-46283bd4{
+	font-size: 40rpx;
+	color: #FF1558;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	line-height: 1;
+}
+.skuPrice .skuPriceSub.data-v-46283bd4{
+	font-size: 30rpx;
+	padding-top: 20rpx;
+	margin-right: 6rpx;
+}
+.skuPriceText.data-v-46283bd4{
+	padding-top: 10rpx;
+}
+.itemName.data-v-46283bd4{
+	font-size: 24rpx;
+	color: #333333;
+}
+.sureBtn.data-v-46283bd4{
+	width: 702rpx;
+	height: 80rpx;
+	background: -webkit-linear-gradient(231deg, #CB6EFF 0%, #7530C1 100%);
+	background: linear-gradient(219deg, #CB6EFF 0%, #7530C1 100%);
+	margin: 0 auto;
+	border-radius: 20px;
+	text-align: center;
+	line-height: 80rpx;
+	font-size: 26rpx;
+	color: #FFFFFF;
+	margin-top: 40rpx;
+}
+.retailPrice.data-v-46283bd4{
+	width: 100%;
+	height: 40rpx;
+	line-height: 40rpx;
+	color: #666666;
+	font-size: 24rpx;
+}
+.retailPrice text.data-v-46283bd4{
+	margin-right: 24rpx;
+}
+

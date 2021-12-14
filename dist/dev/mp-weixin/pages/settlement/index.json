@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "填写订单",
+  "usingComponents": {
+    "store-coupons": "/pages/settlement/storeDiscount",
+    "platform-coupons": "/pages/settlement/platformCoupons",
+    "store-promotion-view": "/pages/settlement/storePromotionView",
+    "set-pay-pwd": "/pages/pay/setPayPsw/index",
+    "forget-pay-psw": "/pages/pay/forgetPayPsw/index",
+    "verification-code": "/pages/pay/verificationCode/index",
+    "psw-popup": "/pages/pay/passwordPopup/index"
+  }
+}

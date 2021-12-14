@@ -1,0 +1,11 @@
+
+.slide_view {
+	width: 100%;
+	/* height: 236rpx; */
+	white-space: nowrap;
+}
+.slide_view image {
+	height: 100%;
+	width: auto;
+}
+

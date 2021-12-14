@@ -1,0 +1,25 @@
+
+.promtion.data-v-028a6c83{
+	width: 100%;
+	padding: 0 18rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.everyTab.data-v-028a6c83{
+	height: 88rpx;
+	line-height: 88rpx;
+	margin: 0 18rpx;
+}
+.everyTab.active.data-v-028a6c83{
+	font-size: 40rpx;
+	font-weight: 700;
+	-webkit-transition: all 0.2s;
+	transition: all 0.2s;
+}
+.scrollViewGoods.data-v-028a6c83{
+	background:#F5F5F5;
+	height: calc(100vh - 316rpx);
+	padding-top: 10rpx;
+}
+

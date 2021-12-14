@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "single-goods": "/renovation/singleGoods/index"
+  }
+}

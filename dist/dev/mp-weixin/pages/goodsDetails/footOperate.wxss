@@ -1,0 +1,98 @@
+
+.footOperate.data-v-58fab0a8 {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: calc(98rpx + constant(safe-area-inset-bottom));
+	height: calc(98rpx + env(safe-area-inset-bottom));
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	background-color: #fff;
+}
+.navCont.data-v-58fab0a8 {
+	width: 264rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.navContBtn.data-v-58fab0a8 {
+	width: 88rpx;
+	height: 98rpx;
+	padding: 0 23rpx;
+}
+.goHome.data-v-58fab0a8 {
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/home_more2@2x.png) no-repeat 50%;
+	background-size: 42rpx 42rpx;
+}
+.goCart.data-v-58fab0a8 {
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/cart_11@2x.png) no-repeat 50%;
+	background-size: 42rpx 42rpx;
+}
+.goService.data-v-58fab0a8 {
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/kefu.png) no-repeat 50%;
+	background-size: 42rpx 42rpx;
+}
+.navBtn.data-v-58fab0a8 {
+	width: 216rpx;
+	height: 80rpx;
+	margin-top: 10rpx;
+	line-height: 80rpx;
+	text-align: center;
+	border-radius: 44rpx;
+	margin-left: 16rpx;
+	display: inline-block;
+}
+.cartBtn.data-v-58fab0a8 {
+	color: #333;
+	border: 1px solid #333;
+}
+.buyBtn.data-v-58fab0a8 {
+	background: #ff1558;
+	color: #fff;
+}
+.buyBtn.active.data-v-58fab0a8{
+	background-color: #999999;
+	color: #FFFFFF;
+}
+.nacDisabledBtn.data-v-58fab0a8 {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	background: #999999;
+	height: 98rpx;
+	line-height: 98rpx;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 32rpx;
+}
+.buyNow.data-v-58fab0a8 {
+	background-color: #FFDF8C;
+	color: #000000;
+	width: 456rpx;
+	height: 78rpx;
+	margin-top: 10rpx;
+	margin-left: 16rpx;
+	border-radius: 52rpx;
+	text-align: center;
+	line-height: 78rpx;
+}
+.receiveBtn.data-v-58fab0a8{
+	background: -webkit-linear-gradient(right, #FFBB46 0%, #FE8F20 100%);
+	background: linear-gradient(270deg, #FFBB46 0%, #FE8F20 100%);
+	color: #FFFFFF;
+}
+.memberBuyBtn.data-v-58fab0a8{
+	background-color: #FF1558;
+	color: #FFFFFF;
+}
+.disabled.buyNow.data-v-58fab0a8{
+	background-color: #DFDFDF;
+}
+.increaseBtn.data-v-58fab0a8{
+	background: -webkit-linear-gradient(right, #FFBB46 0%, #FE8F20 100%);
+	background: linear-gradient(270deg, #FFBB46 0%, #FE8F20 100%);
+	border: none;
+	color: #FFFFFF;
+}
+

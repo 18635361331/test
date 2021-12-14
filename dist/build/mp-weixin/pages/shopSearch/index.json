@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "店铺搜索",
+  "usingComponents": {
+    "shop-second-category": "/common/model/shopSecondCategory",
+    "shop-three-category": "/common/model/shopThreeCategory"
+  }
+}

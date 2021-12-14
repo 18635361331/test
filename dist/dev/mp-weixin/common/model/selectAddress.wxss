@@ -1,0 +1,65 @@
+
+.chooseAddress.data-v-2909b448{
+	width: 100%;
+	height: 100%;
+	background-color: #FFFFFF;
+	padding-left: 24rpx;
+}
+.selectTitle.data-v-2909b448{
+	width: 100%;
+	height: 98rpx;
+	border-bottom: 1px solid #E6E6E6;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.everyChoose.data-v-2909b448,.addressList.data-v-2909b448{
+	line-height: 98rpx;
+	height: 98rpx;
+	margin-right: 34rpx;
+	overflow: hidden;
+}
+.everyChoose.data-v-2909b448{
+	max-width: 20%;
+}
+.addressList.data-v-2909b448{
+	border-bottom: 1px solid #E6E6E6;
+	color: #999999;
+}
+.addressList.active.data-v-2909b448{
+	color: #FF1558;
+	position: relative;
+}
+.chooseBtn.data-v-2909b448{
+	line-height: 98rpx;
+	color: #FF1558;
+	height: 98rpx;
+	margin-right: 36rpx;
+}
+.chooseBtn.active.data-v-2909b448{
+	/* border-bottom: 2http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/558; */
+}
+.chooseIcon.data-v-2909b448{
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/static/unfollow.png) no-repeat 50%;
+	background-size: 27rpx 18rpx;
+	width: 27rpx;
+	height: 18rpx;
+	position: absolute;
+	right: 20rpx;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+}
+.addrContainer.data-v-2909b448{
+	height: calc(100% - 100rpx);
+}
+.everyChoose.active.data-v-2909b448{
+	border-bottom: 2px solid #FF1558;
+}
+.opacity.data-v-2909b448{
+	width: 0;
+	height: 0;
+	opacity: 0;
+	font-size: 0;
+}
+

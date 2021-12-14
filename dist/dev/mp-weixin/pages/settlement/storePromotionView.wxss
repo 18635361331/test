@@ -1,0 +1,84 @@
+
+.disCount.data-v-a189e5f8 {
+	width: calc(100% - 44rpx);
+	margin: 0 auto;
+	height: 88rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	border-bottom: 1rpx solid #E6E6E6;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.couponIcon.data-v-a189e5f8 {
+	height: 88rpx;
+	width: 32rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/moreD.png) no-repeat 50%;
+	background-size: 32rpx 8rpx;
+}
+.couponPopup.data-v-a189e5f8 {
+	height: 752rpx;
+	width: 100%;
+	background-color: #FFFFFF;
+}
+.popupTitle.data-v-a189e5f8 {
+	width: 100%;
+	height: 100rpx;
+	line-height: 100rpx;
+	font-size: 34rpx;
+	text-align: center;
+}
+.couponMain.data-v-a189e5f8 {
+	width: 100%;
+	height: calc(100% - 200rpx);
+}
+.promotionText.data-v-a189e5f8{
+	text-align: right;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	margin-right: 20rpx;
+}
+.sureBtn.data-v-a189e5f8 {
+	width: 100%;
+	height: 100rpx;
+	text-align: center;
+	line-height: 100rpx;
+	font-size: 32rpx;
+	color: #FFFFFF;
+	background-color: #FF1558;
+}
+.everyRow.data-v-a189e5f8{
+	width: 702rpx;
+	margin: 0 auto;
+	margin-bottom: 30rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	height: 88rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding-right: 24rpx;
+}
+.promotionView.data-v-a189e5f8{
+	color: #666666;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+}
+.couponBtnIcon.data-v-a189e5f8 {
+	width: 36rpx;
+	height: 36rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/oval_3copy4@2x.png) no-repeat 50%;
+	background-size: 36rpx 36rpx;
+}
+.couponBtnIcon.active.data-v-a189e5f8 {
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/subr.png) no-repeat 50%;
+	background-size: 36rpx 36rpx;
+}
+

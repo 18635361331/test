@@ -1,0 +1,71 @@
+
+.commonPageTitle.data-v-ec632a84 {
+}
+.integralHead.data-v-ec632a84 {
+	width: 100%;
+	height: 1066rpx;
+	position: relative;
+}
+.alreadyBtn.data-v-ec632a84{
+	position: absolute;
+	width: 250rpx;
+	height: 100rpx;
+	left: 0;
+	right: 0;
+	margin: auto;
+	top: 450rpx;
+	z-index: 10;
+}
+.integraImg.data-v-ec632a84 {
+	width: 256rpx;
+	height: 256rpx;
+	margin: 0 auto;
+	margin-top: 100rpx;
+	display: block;
+}
+.signInTitle.data-v-ec632a84 {
+	width: 100%;
+	height: 40rpx;
+	line-height: 40rpx;
+	font-size: 32rpx;
+	color: #333333;
+	text-align: center;
+	margin-top: 20rpx;
+}
+.signInBox.data-v-ec632a84 {
+	width: 100%;
+	height: auto;
+}
+.everySignIn.data-v-ec632a84 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding: 0 24rpx;
+	color: #999999;
+	height: 92rpx;
+	line-height: 92rpx;
+	font-size: 30rpx;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.point.data-v-ec632a84 {
+	color: #FF1558;
+}
+.orderNoMsg.data-v-ec632a84 {
+	padding-top: 100rpx;
+	width: 360rpx;
+	margin: 0 auto;
+	margin-bottom: 100rpx;
+}
+.orderNoMsg image.data-v-ec632a84 {
+	width: 100%;
+}
+.orderNoMsgText.data-v-ec632a84 {
+	text-align: center;
+	color: #999999;
+	font-size: 30rpx;
+	margin-top: 55rpx;
+}
+
+

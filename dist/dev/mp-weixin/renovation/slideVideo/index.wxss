@@ -1,0 +1,18 @@
+
+.content.data-v-0737756a{
+	min-width: 100%;
+	min-height: 100rpx;
+	position: relative;
+}
+.slideVideo.data-v-0737756a{
+	white-space: nowrap;
+}
+.myVideo.data-v-0737756a{
+	display: inline-block;
+}
+.slideVideoImage.data-v-0737756a{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+

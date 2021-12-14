@@ -1,0 +1,35 @@
+
+.goodsPrice.data-v-36b7ff2a {
+	line-height: 24rpx;
+	margin-top: 12rpx;
+}
+.currency.data-v-36b7ff2a {
+	font-size: 18rpx;
+	color: #333;
+}
+.price.data-v-36b7ff2a {
+	font-size: 24rpx;
+	color: #333;
+}
+.goodsPrice.active.data-v-36b7ff2a{
+	margin-top: 24rpx;
+}
+.price.active.data-v-36b7ff2a{
+	color: #FF1558;
+	font-size: 32rpx;
+}
+.currency.active.data-v-36b7ff2a{
+	color: #FF1558;
+}
+.decoration.data-v-36b7ff2a {
+	text-decoration: line-through;
+	margin-left: 12rpx;
+	color: #999;
+	font-size: 20rpx;
+}
+.defaultPrice.data-v-36b7ff2a{
+	color: #666666;
+	margin-top: 12rpx;
+	font-size: 22rpx;
+}
+

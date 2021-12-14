@@ -1,0 +1,1 @@
+<view class="page data-v-0e6b8474"><view class="onelineText data-v-0e6b8474" style="{{'color:'+(onelineText.fontColor)+';'+('background-color:'+(onelineText.backgroundColor)+';')+('text-align:'+(onelineText.typeSet)+';')}}">{{''+onelineText.text+''}}</view></view>

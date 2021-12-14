@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "usingComponents": {
+    "goods-banner": "/pages/goodsDetails/goodsBanner",
+    "coupon": "/pages/goodsDetails/coupon",
+    "activity": "/pages/goodsDetails/activity",
+    "goods-details": "/pages/goodsDetails/details",
+    "shop": "/pages/goodsDetails/shop",
+    "foot-no-more": "/components/footNoMore/index",
+    "evaluate": "/pages/goodsDetails/evaluate",
+    "foot-operate": "/pages/goodsDetails/footOperate",
+    "evaluate-detail": "/pages/goodsDetails/evaluateDetail",
+    "container": "/pages/goodsDetails/container",
+    "open-booking": "/pages/goodsDetails/openBooking"
+  }
+}

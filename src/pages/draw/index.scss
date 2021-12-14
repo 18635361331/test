@@ -1,0 +1,509 @@
+.w100{
+		width: 100%;
+	}
+	/deep/ .uni-transition{
+		background-color: rgba(0, 0, 0, 0.6) !important;
+	}
+	$img-oss:'https://prod-acitvity.oss-cn-shanghai.aliyuncs.com/draw/img/';
+	.pages{
+		/* #ifndef MP-WEIXIN */
+		padding-top: 88rpx;
+		/* #endif */
+		max-width: 500px;
+		margin: 0 auto;
+	}
+	.awardText{
+		font-size: 24rpx;
+		font-weight: 400;
+		color: #875C3F;
+		display: block;
+	}
+	
+.head{
+	position: relative;
+	text-align: center;
+	image{
+		@extend .w100;
+	}
+	.homeBtn{
+		position: absolute;
+		right: 0;
+		top: 20rpx;
+		width: 290rpx;
+		height: 54rpx;
+		// background: #E43182;
+	}
+	.swiperContent{
+		margin: 0 auto;
+		width: 100%;
+		height: 40rpx;
+		position: absolute;
+		top: 574rpx;
+		overflow: hidden;
+		.swiper-item{
+			font-size: 28rpx;
+			font-weight: 500;
+			color: #FFFFFF;
+			width: 90%;
+			height: 100%;
+			text-align: center;
+			position: absolute;
+			top:50%;
+			left: 50%;
+			transform: translate(-50%,-50%);
+			animation: animation-key 3s linear 0s 1 normal;
+		}
+		
+		
+		@keyframes animation-key{
+			0%{
+				top:100%;
+			}
+			10%{
+				top:50%;
+			}
+			80%{
+				top:50%
+			}
+			100%{
+				top:-50%
+			}
+			
+		}
+		
+	}
+	.center{
+		
+		width: calc(100% - 180rpx);
+		position: absolute;
+		top: 716rpx;
+		left: 90rpx;
+		display: flex;
+		justify-content: space-between;
+		.part{
+			// flex: 1;
+			align-items: center;
+			position: relative;
+			width: 32%;
+			height: 246rpx;
+			background: linear-gradient(171deg, #FBEFD2 0%, #FBE8BC 100%);
+			border-radius: 12rpx;
+			overflow: hidden;
+			// &:nth-child(2){
+			// 	margin: 0 12rpx;
+			// }
+			.bg{
+				position: absolute;
+				z-index: 5;
+				width: 110%;
+				height: 100%;
+				top: 0;
+				left: 0;
+				background: rgba(0, 0, 0, 0.3);
+			}
+			text{
+				@extend .awardText;
+				position: absolute;
+				width: 100%;
+				bottom: 16rpx;
+				left: 0;
+			}
+			&.thanks{
+				text{
+					font-size: 28rpx;
+					font-weight: 500;
+					color: #C74724;
+				}
+				
+			}
+		}
+		.pen{
+			.goods{
+				width: 170rpx;
+				margin-top: 18rpx;
+			}
+		}
+		.quan{
+			.role{
+				width: 88rpx;
+				position: absolute;
+				right: 0;
+				top: 0;
+				z-index: 2;
+			}
+			.goods{
+				position: relative;
+				width: 140rpx;
+				z-index: 3;
+				margin-top: 90rpx;
+			}
+		}
+		.thanks{
+			.goods{
+				width: 148rpx;
+				margin-top: 36rpx;
+			}
+		}
+	}
+	.count{
+		font-size: 28rpx;
+		font-weight: 400;
+		color: #FFFFFF;
+		position: absolute;
+		bottom: 180rpx;
+		width: 100%;
+	}
+	.awardBtn{
+		background-image: url($img-oss+'draw_btn1.png');
+		width: 461rpx;
+		height:130rpx;
+		background-size: 100% 100%;
+		position: absolute;
+		bottom: 10rpx;
+		left: 50%;
+		transform: translateX(-50%);
+		&.disabled{
+			background-image: url($img-oss+'draw_btn2.png');
+			
+		}
+	}
+}
+.bottom{
+	padding-top: 40rpx;
+	margin-top: -10rpx;
+	background: linear-gradient(0deg, #FFC039 0%, #FEAB25 4%, #FFAC26 20%, #FFAC26 100%);
+}
+.prize{
+	width: 690rpx;
+	background: #FFFFFF;
+	border-radius: 20rpx;
+	margin: 0 auto 30rpx;
+	padding: 30rpx;
+	.title{
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		&>text{
+			font-size: 36rpx;
+			font-weight: 500;
+			color: #5457BB;
+			&::after{
+				content: "";
+				display: block;
+				width: 147rpx;
+				height: 10rpx;
+				background: #F89101;
+				border-radius: 6px;
+				margin-top: -12rpx;
+			}
+			
+		}
+	}
+	.head_right{
+		font-size: 28rpx;
+		font-weight: 400;
+		color: #5457BB;
+		text{
+			display: inline-block;
+			vertical-align: middle;
+		}
+		.triangle{
+			width: 20rpx;
+			height: 20rpx;
+			background-size: 100% 100%;
+			background-image: url($img-oss+'draw_triangle.png');
+		}
+	}
+	
+	.center{
+		margin-top: 30rpx;
+		&>view{
+			display: inline-block;
+			width: 180rpx;
+			height: 180rpx;
+			background: linear-gradient(171deg, #FBEFD2 0%, #FBE8BC 100%);
+			box-shadow: 0px 1px 5px 0px #E3B241;
+			border-radius: 12rpx;
+			margin-right: 20rpx;
+			text-align: center;
+			position: relative;
+		}
+		text{
+			@extend .awardText;
+			position: absolute;
+			bottom: 20rpx;
+			width: 100%;
+			text-align: center;
+		}
+		
+		.pen{
+			.goods{
+				transform: rotate(-90deg);
+				width: 180rpx;
+				margin-top: -20rpx;
+			}
+		}
+		.quan{
+			.goods{
+				width: 134rpx;
+				margin-top: -20rpx;
+			}
+		}
+	}
+}
+
+.rule{
+	width: 710rpx;
+	margin: 0 auto;
+	display: block;
+}
+.publicity{
+	width: 690rpx;
+	margin: 30rpx auto;
+	display: block;
+}
+
+/* 中奖优惠券弹窗 */
+.coupon_title{
+	text-align: center;
+	text{
+		display: inline-block;
+		vertical-align: middle;
+	}
+	text:nth-child(2){
+		font-size: 36rpx;
+		font-weight: 500;
+		color: #5457BB;
+		margin: 0 30rpx;
+		&::after{
+			content: '';
+			display: block;
+			width: 144rpx;
+			height: 10rpx;
+			background: #F89101;
+			border-radius: 6rpx;
+			margin-top: -10rpx;
+		}
+	}
+	.colour{
+		background-image: url($img-oss+'draw_color.png');
+		width: 68rpx;
+		height: 28rpx;
+		background-size: contain;
+	}
+}
+
+.addressPopup{
+	width: 100%;
+	height: 800rpx;
+	background-color: #FFFFFF;
+}
+
+.createAddressBox{
+	height: 100%;
+}
+	
+.couponPopupBox,.nothingPopupBox{
+	background: #fff;
+	width: 690rpx;
+	margin: 0 auto;
+	border-radius: 20rpx;
+	padding: 30rpx 20rpx;
+	.quan{
+		width: 100%;
+		margin: 40rpx 0 30rpx;
+	}
+	.remark{
+		font-size: 28rpx;
+		font-weight: 500;
+		color: #5457BB;
+		line-height: 1.4;
+		text{
+			font-weight: 700;
+		}
+	}
+}
+.btn_popup{
+	font-size: 32rpx;
+	font-weight: 500;
+	color: #FFFFFF;
+	padding: 28rpx 0;
+	line-height: 1;
+	text-align: center;
+	border-radius: 44rpx;
+}
+.couponPopupBtn{
+	width: 690rpx;
+	margin: 40rpx auto 60rpx;
+	display: flex;
+	justify-content: space-between;
+	view{
+		width: 45%;
+		@extend .btn_popup;
+		background: #896DFD;
+		&:last-child{
+			background: #FE325C;
+		}
+	}
+}
+.popupClose{
+	background-image: url($img-oss+'draw_close.png');
+	width: 60rpx;
+	height: 60rpx;
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+}
+
+/* 未抽中 */
+.nothingPopupBox{
+	padding-bottom: 60rpx;
+	.cry{
+		width: 240rpx;
+		margin-top: -120rpx;
+	}
+	text-align: center;
+	text{
+		display: block;
+		font-size: 32rpx;
+		font-weight: 600;
+		color: #5457BB;
+		line-height: 1.5;
+	}
+}
+.nothingPopupBtn{
+	width: 690rpx;
+	@extend .btn_popup;
+	background: #FE325C;
+	margin-bottom: 40rpx;
+}
+.nothingPopupText{
+	margin-bottom: 30rpx;
+	text-align: center;
+	font-size: 32rpx;
+	font-weight: 400;
+	color: #FFFFFF;
+	margin-top: 30rpx;
+	text{
+		color: #FE325C;
+		vertical-align: middle;
+		margin-right: 10rpx;
+	}
+}
+/* 定制 */
+.customizedPopupBox{
+	width: 100%;
+	background: #FFFFFF;
+	border-radius: 20rpx 20rpx 0 0;
+	position: relative;
+	padding: 30rpx;
+	.customizedContent{
+		max-height: calc(100vh - 200rpx);
+	}
+	.popupClose{
+		background-image: url($img-oss+'draw_close2.png');
+		position: absolute;
+		right: 30rpx;
+		top: 30rpx;
+	}
+	
+	.goods{
+		margin: 30rpx 0 20rpx;
+		width: 100%;
+		border-radius: 20rpx;
+		border: 1px solid #F2F2F2;
+		padding: 20rpx;
+		display: flex;
+		.left{
+			width: 240rpx;
+			height: 240rpx;
+			background-image: url($img-oss+'draw_pen.jpg');
+			background-size: 100% 100%;
+			position: relative;
+			.large{
+				width: 50rpx;
+				height: 50rpx;
+				background-image: url($img-oss+'draw_large.png');
+				background-size: 100% 100%;
+				position: absolute;
+				right: 0;
+				bottom: 0;
+				z-index: 3;
+			}
+		}
+		text{
+			font-size: 36rpx;
+			font-weight: 500;
+			color: #333333;
+			margin-left: 40rpx;
+		}
+	}
+	.info{
+		font-size: 32rpx;
+		font-weight: 500;
+		color: #666666;
+	}
+}
+.placeholder {
+  font-size: 32rpx;
+}
+.inputGroup{
+	margin-top: 20rpx;
+	/deep/ .part .rowText{
+		font-size: 32rpx;
+		font-weight: 400;
+		color: #cccccc !important;
+	}
+	/deep/ .part .rowText.active{
+		color: #333333 !important;
+	}
+	
+	.part{
+		border-top: 1px solid #F2F2F2;
+		padding: 20rpx 0;
+		display: flex;
+		align-items: center;
+		.left{
+			font-size: 32rpx;
+			font-weight: 500;
+			color: #333333;
+			width: 178rpx;
+			margin-right: 30rpx;
+		}
+		.red{
+			color: #F02247;
+		}
+		.row{
+			background-image: url($img-oss+'draw_row.png');
+			width: 30rpx;
+			height: 30rpx;
+			align-items: flex-end;
+			background-size: 100% 100%;
+		}
+		
+		
+		input{
+			width: 50%;
+			font-size: 32rpx;
+			font-weight: 400;
+			color: #333;
+		}
+		&.remark input{
+			width: 68%;
+		}
+		
+		.rowText{
+			width: calc(100% - 178rpx - 30rpx - 30rpx);
+			color: #B8B8B8;
+			&.active{
+				color: #000;
+			}
+		}
+	}
+}
+.awardInfo{
+	margin-top: 10rpx;
+	width: 100%;
+	display: block;
+	margin-bottom: 40rpx;
+}

@@ -1,0 +1,54 @@
+
+.orderBtnBox.data-v-169ae7ba{
+	padding-bottom: 80rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: end;
+	-webkit-justify-content: flex-end;
+	        justify-content: flex-end;
+	padding-right: 24rpx;
+}
+.orderBtn.data-v-169ae7ba{
+	width: 136rpx;
+	height: 56rpx;
+	display: inline-block;
+	line-height: 56rpx;
+	text-align: center;
+	font-size: 26rpx;
+	margin-top: 18rpx;
+	margin-left: 24rpx;
+	color: #999999;
+	border: 1rpx solid #999999;
+	border-radius: 100rpx;
+}
+.active.data-v-169ae7ba{
+	background-color: #FF1558;
+	color: #FFFFFF;
+	border: none;
+}
+.hint.data-v-169ae7ba{
+	width: 100%;
+	height: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	color: #333333;
+}
+.applyHint.data-v-169ae7ba{
+	width: 100%;
+	height: 100%;
+	padding: 40rpx;
+	padding-top: 100rpx;
+}
+.applyHint .makePhoneCall.data-v-169ae7ba{
+	color: #FF1558;
+	display: inline-block;
+}
+

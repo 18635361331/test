@@ -1,0 +1,21 @@
+
+.collectTitle.collectTitle-white.data-v-31077656{
+	color: #fff;
+	background: transparent;
+}
+.collectTitle.collectTitle-black.data-v-31077656{
+	color: black;
+	background: transparent;
+}
+.collectTitle.collectTitle-red.data-v-31077656{
+	color: #fff;
+	background: #FF1457;
+}
+.collectTitle-red .goBackBtn.data-v-31077656{
+	display: none;
+}
+
+
+	
+
+

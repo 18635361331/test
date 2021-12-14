@@ -1,0 +1,1 @@
+<view class="multiLine" style="{{(textStyle)}}"><rich-text nodes="{{$root.m0}}"></rich-text></view>

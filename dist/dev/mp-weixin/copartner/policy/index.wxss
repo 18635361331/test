@@ -1,0 +1,394 @@
+
+.commonPageTitle.data-v-86909dd4{
+
+
+
+	min-height: 100vh;
+	background: #FFFFFF;
+}
+/* .policyList{
+	width: 100%;
+	height: 100rpx;
+}
+.headList{
+	height: 260rpx;
+	margin-bottom: 30rpx;
+}
+.policyBox{
+	display: flex;
+	align-items: center;
+	width: calc(100% - 60rpx);
+	margin: 0 auto;
+}
+.policyBigImg{
+	position: relative;
+	width: 210rpx;
+	margin-right: 20rpx;
+}
+.policyBigImg .bg{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.5);
+	display: block;
+	border-radius: 20rpx;
+}
+.policyImage{
+	width: 100%;
+	height: 100%;
+}
+
+
+
+.line{
+	width: 30rpx;
+	min-width: 30rpx;
+	height: 2rpx;
+	background-color: #F3F4F5;
+}
+.everyPolicy{
+	min-width: 150rpx;
+	width: 150rpx;
+	height: 50rpx;
+	text-align: center;
+	line-height: 50rpx;
+	background-color: #F3F4F5;
+	color: #999999;
+	border-radius: 20px;
+	font-size: 24rpx;
+	position: relative;
+}
+.everyPolicy .ellipsis-one{
+	text-align: center;
+}
+.everyPolicy.active{
+	background: #FFC825;
+	color: #FFFFFF;
+}
+.everyPolicy.active text{
+	color: #999999;
+}
+.everyPolicy text{
+	position: absolute;
+	bottom: -50rpx;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+.notMeet{
+	width: calc(100% - 60rpx);
+	height: 60rpx;
+	background-color: #FFF3E0;
+	border-radius: 34rpx;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	font-size: 24rpx;
+	padding: 0 20rpx;
+	color: #D5902E;
+}
+.lv{
+	width: 30rpx;
+	height: 25rpx;
+	vertical-align: middle;
+	margin-right: 10rpx;
+}
+.elevator{
+	width: 100%;
+	border-bottom: 1px solid #F3F4F5;
+	display: flex;
+	font-size: 24rpx;
+	font-weight: 400;
+	color: #666666;
+	margin: 30rpx 0;
+	padding-bottom: 14rpx;
+}
+.elevator view{
+	width: 25%;
+	text-align: center;
+	position: relative;
+}
+.elevator view:not(:last-child){
+	border-right: 1px solid #F3F4F5;
+}
+.elevator .active{
+	color: #FE325C;
+	font-size: 30rpx;
+	font-weight: 700;
+}
+.elevator .active::after{
+	content:'';
+	position: absolute;
+	width: 112rpx;
+	height: 10rpx;
+	background: #FE325C;
+	border-radius: 2rpx;
+	bottom: -14rpx;
+	left: 50%;
+	border-radius: 40rpx;
+	transform: translateX(-50%);
+}
+.applyBtn{
+	color: #E88140;
+}
+.applyBtn image{
+	width: 11rpx;
+	height: 18rpx;
+	margin-left: 10rpx;
+}
+.policyTitle{
+	width: 100%;
+	height: 60rpx;
+	line-height: 60rpx;
+	color: #000000;
+	font-size: 32rpx;
+	font-weight: 700;
+}
+.paddingPolicy{
+	width: calc(100% - 60rpx);
+	margin: 0 auto;
+	padding-bottom: 10rpx;
+}
+.paddingPolicy.hasBtn{
+	padding-bottom: 150rpx;
+}
+.policyTitle text{
+	color: #666666;
+	font-size: 20rpx;
+	margin-left: 20rpx;
+}
+.openImage{
+	margin: 20rpx auto 30rpx;
+}
+.upgrade{
+	margin: 20rpx auto 0;
+}
+.upgrade,.policyTable{
+	border: 1px solid #CCCCCC;
+	border-right: none;
+	border-bottom: none;
+}
+.policyTable {
+	font-size: 24rpx;
+	margin-top: 20rpx;
+}
+.formulaTitle{
+	font-size: 28rpx;
+	color: #333333;
+	margin: 20rpx 0;
+}
+.formulaInfo{
+	font-size: 26rpx;
+	font-weight: 500;
+	color: #666666;
+	margin: 20rpx 0;
+}
+.formula{
+	font-size: 24rpx;
+	font-weight: 600;
+	color: #000000;
+	margin: 8rpx 0;
+}
+.formulaText {
+	display: inline-block;
+}
+.example{
+	font-size: 28rpx;
+	color: #333333;
+	line-height: 1.3;
+}
+.exampleTips{
+	font-size: 24rpx;
+	font-weight: 500;
+	color: #666666;
+	line-height: 1.3;
+	margin-top: 20rpx;
+}
+.tableTitle{
+	border-bottom: 1rpx solid #CCCCCC;
+	display: flex;
+}
+.tableHead{
+	background: #F3F4F5;
+}
+.tableTd{
+	width:33.33%;
+	text-align: center;
+	height: 60rpx;
+	line-height: 60rpx;
+}
+.tableTaps{
+	width: 50%;
+}
+.policyTable .tableTd{
+	color: #666666;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-color: #D8D8D8;
+}
+.welfarePolicy{
+	width: 100%;
+	margin-top: 20rpx;
+	height: 100rpx;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.leftPolicy,.rightPolicy{
+	width: 170rpx;
+	height: 20rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/welfarePolicy.png);
+	background-size: 100% 100%;
+}
+.rightPolicy{
+	transform: rotate(180deg);
+}
+.welfarePolicy text{
+	margin: 0 30rpx;
+	font-size: 32rpx;
+	color: #BF9068;
+}
+.pricePolicy{
+	color: #B29071;
+	font-size: 32rpx;
+	font-weight: 500;
+	margin-bottom: 20rpx;
+}
+.pricePoliceBg{
+	width: 100%;
+	height: 100rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/discount.png);
+	background-size: 100% 100%;
+	margin-bottom: 30rpx;
+}
+.tips{
+	font-size: 28rpx;
+	color: #BF9461;
+	margin: 20rpx 0;
+}
+.dottedLine{
+	padding: 20rpx;
+	border: 1rpx dashed #BF9461;
+	background: #FAF6F3;
+	border-radius: 5px;
+	margin-bottom: 30rpx;
+	font-size: 26rpx;
+	color: #666666;
+}
+.priceInfo{
+	display: flex;
+	width: 100%;
+	height: 100%;
+	align-items: center;
+	color: #663F0A;
+	padding-left: 56rpx;
+	font-size: 28rpx;
+	font-weight: 600;
+}
+.priceInfo text{
+	font-size: 40rpx;
+	font-weight: 600;
+	color: #663F0A;
+}
+.priceInfo view{
+	font-size: 24rpx;
+	margin: 0 10rpx;
+}
+.resultsPolicyText{
+	font-size: 28rpx;
+	color: #333333;
+	margin-top: 20rpx;
+}
+
+.tableContent{
+	width: 100%;
+	height: 60rpx;
+	text-align: center;
+	line-height: 60rpx;
+	display: flex;
+	border-bottom: 1rpx solid #CCCCCC;
+}
+.tablesTitle{
+	height: 120rpx;
+	line-height: 120rpx;
+	font-size: 26rpx;
+	color: #333;
+	font-weight: 500;
+}
+.tableLevel{
+	width: 110rpx;
+	min-width: 110rpx;
+}
+.tableMerge{
+	display: flex;
+	flex-wrap: wrap;
+}
+.tableMergeMain{
+	width: 100%;
+	border-bottom: 1rpx solid #CCCCCC;
+	height: 60rpx;
+	line-height: 60rpx;
+	text-align: center;
+}
+.tableTds,.tableMergeMain,.tableRatio,.tableTd{
+	border-right: 1rpx solid #CCCCCC;
+}
+.tableRange{
+	width: 290rpx;
+	min-width: 290rpx;
+}
+.taps text,.rewardIcon{
+	display: inline-block;
+	vertical-align: middle;
+}
+.rewardIcon{
+	width: 30rpx;
+	height: 30rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/rewardIcon.png);
+	background-size: 100% 100%;
+	margin-left: 8rpx;
+	position: relative;
+	padding: 16rpx;
+}
+.tableRatio{
+	width: 50%;
+	line-height: 60rpx;
+	height: 60rpx;
+} */
+.btmBtn.data-v-86909dd4{
+	width: 100%;
+	height: 128rpx;
+	position: fixed;
+	bottom: 0rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	z-index: 10;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.openBtn.data-v-86909dd4{
+	width: calc(100% - 60rpx);
+	height: 88rpx;
+	line-height: 88rpx;
+	border-radius: 44rpx;
+	font-size: 32rpx;
+	font-weight: 500;
+	color: #663F0A;
+	background: -webkit-linear-gradient(323deg, #FFE8CA 0%, #E6BA78 100%);
+	background: linear-gradient(127deg, #FFE8CA 0%, #E6BA78 100%);
+	text-align: center;
+}
+image.data-v-86909dd4{
+	display: block;
+}
+

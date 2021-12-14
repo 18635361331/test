@@ -1,0 +1,30 @@
+
+.commonPageTitle.data-v-2e10d2ec {
+	height: 100vh;
+}
+.storeInfo.data-v-2e10d2ec{
+	width: 100%;
+	padding: 0 30rpx;
+}
+.storeTitle.data-v-2e10d2ec{
+	width: 100%;
+	font-weight: 700;
+	color: #000000;
+	line-height: 68rpx;
+	margin-top: 30rpx;
+	font-size: 48rpx;
+}
+.storeText.data-v-2e10d2ec{
+	margin-top: 24rpx;
+	color: #333333;
+}
+.storeText image.data-v-2e10d2ec{
+	width: 100%;
+}
+.hint.data-v-2e10d2ec{
+	margin-top: 24rpx;
+	font-size: 20rpx;
+	line-height: 38rpx;
+	color: #999999;
+}
+

@@ -1,0 +1,116 @@
+
+.commonPageTitle.data-v-8670d4da{
+}
+.collectTitle.data-v-8670d4da{
+	border-bottom: 1rpx solid #E6E6E6;
+}
+.cancel.data-v-8670d4da{
+	width: 88rpx;
+	height: 88rpx;
+	text-align: center;
+	line-height: 88rpx;
+}
+.editBox.data-v-8670d4da{
+	width: 100%;
+	padding: 112rpx 64rpx 0;
+	color: #333;
+}
+.setPwdCde.data-v-8670d4da{
+	width: 100%;
+	height: 90rpx;
+	border-bottom: 1rpx solid #EEEEEE;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	margin-top: 48rpx;
+}
+.setPwdCde input.data-v-8670d4da{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	height: 100%;
+	margin-right: 22rpx;
+	line-height: 90rpx;
+}
+.sendCode.data-v-8670d4da{
+	width: 160rpx;
+	text-align: right;
+	font-size: 30rpx;
+	line-height: 88rpx;
+}
+.nextBtn.data-v-8670d4da,.complete.data-v-8670d4da{
+	width: 100%;
+	height: 88rpx;
+	background: #FF1558;
+	line-height: 88rpx;
+	color: #FFFFFF;
+	border-radius: 100rpx;
+	margin-top: 112rpx;
+	font-size: 32rpx;
+	text-align: center;
+}
+.countDown.data-v-8670d4da{
+	width: 210rpx;
+	font-size: 28rpx;
+	line-height: 88rpx;
+}
+.surePswBox.data-v-8670d4da{
+	padding: 100rpx 50rpx;
+}
+.verification.data-v-8670d4da{
+	width: 100%;
+	font-size: 36rpx;
+	color: #333333;
+	text-align: center;
+	margin-bottom: 94rpx;
+}
+.passwordBox.data-v-8670d4da{
+	width: 100%;
+	height: 100rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	line-height: 100rpx;
+	position: relative;
+}
+.everyPswBox.data-v-8670d4da{
+	width: 16%;
+	margin-right: 10rpx;
+	width: 100rpx;
+	height: 100rpx;
+	text-align: center;
+	line-height: 100rpx;
+	border: 1rpx solid #DBDBDB;
+	color: #333333;
+	border-radius: 16rpx;
+}
+.passwordBox input.data-v-8670d4da{
+	position: absolute;
+	width: 100%;
+	height: 100rpx;
+	color: #FFFFFF;
+	font-size: 0;
+	opacity: 0.01;
+}
+.pswHint.data-v-8670d4da{
+	width: 100%;
+	text-align: center;
+	font-size: 24rpx;
+	color: #787878;
+	margin-top: 31rpx;
+}
+.submitBtn.data-v-8670d4da{
+	width: 100%;
+	height: 88rpx;
+	background-color: #FF1558;
+	color: #FFFFFF;
+	border-radius: 100rpx;
+	text-align: center;
+	line-height: 88rpx;
+	font-size: 32rpx;
+	margin-top: 170rpx;
+}
+.submitBtn.disabled.data-v-8670d4da{
+	background-color: rgb(216,216,216);
+}
+

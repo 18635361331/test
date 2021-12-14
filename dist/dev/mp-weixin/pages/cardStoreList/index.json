@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "礼卡可用店铺",
+  "usingComponents": {
+    "three-rows-goods": "/renovation/threeRowsGoods/index"
+  }
+}

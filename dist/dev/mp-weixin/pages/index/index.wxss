@@ -1,0 +1,26 @@
+
+.commonPageTitle.data-v-23b1b5af{
+}
+
+
+.homeIndex.data-v-57280228{
+	height: 100vh;
+	position: relative;
+}
+.hearderConfig.data-v-57280228{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	overflow: hidden;
+	z-index: 1;
+}
+.hearderConfig.absolute.data-v-57280228{
+	position: absolute;
+}
+.swiperConfig.data-v-57280228{
+	width: 100%;
+	position: absolute;
+	left: 0;
+}
+

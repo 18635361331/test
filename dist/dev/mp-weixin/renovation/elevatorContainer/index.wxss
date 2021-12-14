@@ -1,0 +1,38 @@
+
+.elevatorScroll.data-v-028b9e68{
+	width: 100%;
+	height: 88rpx;
+}
+.elevatorScrollTop.data-v-028b9e68{
+	top: 0;
+	position: fixed;
+
+
+
+	width: 100%;
+	height: 88rpx;
+	left: 0;
+	z-index: 1;
+}
+.elevatorContainer.data-v-028b9e68{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+	padding: 0 24rpx;
+}
+.everyRowElevator.data-v-028b9e68{
+	margin-right: 62rpx;
+	white-space: nowrap;
+	height: 88rpx;
+	line-height: 88rpx;
+	word-wrap: normal;
+	border-bottom: 4rpx solid #FFFFFF;
+}
+.aaaaa.data-v-028b9e68{
+	position: fixed;
+	bottom: 100rpx;
+	right: 0;
+}
+

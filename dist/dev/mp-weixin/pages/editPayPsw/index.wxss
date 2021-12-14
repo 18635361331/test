@@ -1,0 +1,25 @@
+
+.commonPageTitle.data-v-4cfa9932{
+}
+.payPswBox.data-v-4cfa9932{
+	width: 100%;
+	border-bottom: 1rpx solid #EEEEEE;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	height: 98rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	padding: 0rpx 30rpx;
+}
+.arrow.data-v-4cfa9932{
+	width: 48rpx;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/rightArrow.png) no-repeat 50%;
+	background-size: 12rpx 24rpx;
+	height: 24rpx;
+}
+

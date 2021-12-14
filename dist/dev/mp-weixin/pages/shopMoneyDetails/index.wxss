@@ -1,0 +1,52 @@
+
+.commonPageTitle.data-v-d451e498 {
+
+
+
+	background-color: #F5F5F5;
+	min-height: 100vh;
+}
+.collectTitle.data-v-d451e498 {
+	background-color: #F5F5F5;
+}
+.noGold.data-v-d451e498 {
+	text-align: center;
+	padding-top: 300rpx;
+}
+.noGold image.data-v-d451e498 {
+	width: 220rpx;
+	height: 220rpx;
+}
+.shopMoneyBox.data-v-d451e498 {
+	width: 100%;
+	padding: 0 24rpx;
+	background-color: #F5F5F5;
+	border-radius: 36rpx;
+	overflow: hidden;
+}
+.everyRow.data-v-d451e498 {
+	width: 100%;
+	padding: 24rpx 12rpx 24rpx 24rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	background-color: #FFFFFF;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.money.data-v-d451e498 {
+	font-size: 34rpx;
+}
+.moneyDecTitle.data-v-d451e498 {
+	font-size: 30rpx;
+}
+.moneyDate.data-v-d451e498{
+	font-size: 26rpx;
+	color: #888;
+	margin-top: 8rpx;
+}
+

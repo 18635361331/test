@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "roll": "/common/model/roll/index",
+    "single-coupon": "/renovation/singleCoupon/index"
+  }
+}

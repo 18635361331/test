@@ -1,0 +1,26 @@
+
+.commonPageTitle.data-v-ae141158 {
+		background-color: #F5F5F5;
+		padding-top: 88rpx;
+}
+.collectTitle .goBackBtn.data-v-ae141158 {
+		background-image: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/group_2@2x.png);
+        background-size: 40rpx 40rpx;
+        position: absolute;
+        top: 0;
+        right: 0;
+}
+.agreementPopupContent.data-v-ae141158{
+		height:100vh;
+		background-color: #FFFFFF;
+		padding-top: 100rpx;
+		padding-bottom: 20rpx;
+}
+.agreementEvery.data-v-ae141158{
+		padding: 0 30rpx;
+		color: #999999;
+		margin-top: 20rpx;
+		text-indent: 48rpx;
+		font-size: 26rpx;
+}
+

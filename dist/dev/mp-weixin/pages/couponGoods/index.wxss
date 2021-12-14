@@ -1,0 +1,66 @@
+
+.commonPageTitle.data-v-f67ee7ac {
+	padding-top: 150rpx;
+
+
+
+	background-color: #F5F5F5;
+	min-height: 100vh;
+}
+.couponParent.data-v-f67ee7ac{
+	width: 100%;
+	height: 150rpx;
+	position: fixed;
+	top: 0;
+
+
+
+	left: 0;
+	right: 0;
+	margin: auto;
+	z-index: 1;
+	padding-top: 16rpx;
+	background-color: #F5F5F5;
+}
+.couponDetails.data-v-f67ee7ac{
+	width: 620rpx;
+	margin: 0 auto;
+	background: url(http://beifa-mall.oss-cn-shanghai.aliyuncs.com/appletsImages/coupon_goods@2x.png) no-repeat 50%;
+	background-size: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.couponInfo.data-v-f67ee7ac{
+	height: 100%;
+	width: 450rpx;
+	padding-left: 45rpx;
+}
+.useScope.data-v-f67ee7ac{
+	margin-top: 22rpx;
+	font-size: 30rpx;
+	color: #5d5d5d;
+	line-height: 34rpx;
+	height: 36rpx;
+}
+.useTime.data-v-f67ee7ac{
+	margin-top: 17rpx;
+	font-size: 20rpx;
+	color: #979797;
+}
+.price.data-v-f67ee7ac{
+	font-size: 60rpx;
+	height: 58%;
+}
+.couponPrice.data-v-f67ee7ac{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	text-align: center;
+	color: #FFFFFF;
+	padding-right: 5rpx;
+}
+.price text.data-v-f67ee7ac{
+	font-size: 28rpx;
+}
+

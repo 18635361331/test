@@ -1,0 +1,18 @@
+{
+  "component": true,
+  "usingComponents": {
+    "biserial-goods": "/renovation/biserialGoods/index",
+    "biserial-img": "/renovation/biserialImg/index",
+    "left-one-right-two": "/renovation/leftOneRightTwo/index",
+    "multi-line": "/renovation/multiLine/index",
+    "single-img": "/renovation/singleImg/index",
+    "slide-goods": "/renovation/slideGoods/index",
+    "slide-img": "/renovation/slideImg/index",
+    "spacing": "/renovation/spacing/index",
+    "swiper-img": "/renovation/swiperImg/index",
+    "three-rows-img": "/renovation/threeRowsImg/index",
+    "single-coupon": "/renovation/singleCoupon/index",
+    "biserial-coupon": "/renovation/biserialCoupon/index",
+    "three-column-coupon": "/renovation/threeColumnCoupon/index"
+  }
+}

@@ -1,0 +1,40 @@
+
+.swiperImg.data-v-0144f140{
+	width: 100%;
+}
+.wrapper.data-v-0144f140{
+	position: relative;
+	padding-bottom: 40rpx;
+}
+.dots.data-v-0144f140{
+	position: absolute;
+	bottom: 10rpx;
+	width: 100%;
+	z-index: 1;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.dots view.data-v-0144f140{
+	width: 8rpx;
+	height: 8rpx;
+	background: #FFFFFF;
+	border-radius: 50%;
+	opacity: 0.6;
+	margin: 0 10rpx; 
+	-webkit-transition: 0.3s all ease-in-out; 
+	transition: 0.3s all ease-in-out;
+}
+.dots .active.data-v-0144f140{
+	width: 16px;
+	background: -webkit-linear-gradient(left, #F42F67 0%, #E61446 100%);
+	background: linear-gradient(90deg, #F42F67 0%, #E61446 100%);
+	opacity: 1;
+	border-radius: 8rpx;
+	-webkit-transition: 0.3s all ease-in-out;
+	transition: 0.3s all ease-in-out;
+}
+

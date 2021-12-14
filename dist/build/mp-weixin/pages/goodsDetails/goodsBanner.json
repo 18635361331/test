@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "share": "/pages/goodsDetails/share",
+    "img-preview": "/pages/goodsDetails/imgPreview",
+    "member-interests": "/pages/goodsDetails/memberInterests"
+  }
+}

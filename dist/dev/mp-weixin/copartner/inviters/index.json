@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "邀请的伙伴",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "head-img": "/common/model/head"
+  }
+}

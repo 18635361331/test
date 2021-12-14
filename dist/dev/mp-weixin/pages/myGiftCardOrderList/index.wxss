@@ -1,0 +1,195 @@
+
+.commonPageTitle.data-v-68c13a9a {
+	padding-top: 88rpx;
+
+
+
+	background-color: #F5F5F5;
+	min-height: 100vh;
+}
+.giftCardTab.data-v-68c13a9a {
+	position: fixed;
+	top: 0;
+
+
+
+	background-color: #FFFFFF;
+	left: 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 100%;
+	height: 88rpx;
+}
+.tabRow.data-v-68c13a9a {
+	width: 50%;
+	text-align: center;
+}
+.tabRow text.data-v-68c13a9a {
+	display: inline-block;
+	height: 100%;
+	line-height: 88rpx;
+	border-bottom: 4rpx solid #FFFFFF;
+}
+.tabRow text.active.data-v-68c13a9a {
+	color: #FF1558;
+	border-bottom: 4rpx solid #FF1558;
+}
+.orderList.data-v-68c13a9a {
+	width: 100%;
+}
+.orderRow.data-v-68c13a9a {
+	width: 100%;
+	background-color: #FFFFFF;
+	margin-bottom: 16rpx;
+}
+.orderTitle.data-v-68c13a9a {
+	width: 100%;
+	height: 80rpx;
+	line-height: 80rpx;
+	color: #333333;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	padding: 0 20rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.cancelBtn.data-v-68c13a9a {
+	color: #ff1558;
+}
+.giftCardText.data-v-68c13a9a{
+	height: 194rpx;
+	background-color: #FAFAFA;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding: 22rpx 0;
+}
+.cardImage.data-v-68c13a9a{
+	width: 150rpx;
+	height: 150rpx;
+	border: 1rpx solid #E5E5E5;
+	padding-top: 14rpx;
+	border-radius: 10rpx;
+	background-color: #FFFFFF;
+	margin-left: 24rpx;
+}
+.cardImageBg.data-v-68c13a9a{
+	width: 134rpx;
+	height: 82rpx;
+	background-position: 50%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+}
+.cardPrice.data-v-68c13a9a{
+	font-size: 24rpx;
+	color: #555555;
+	padding-top: 8rpx;
+	text-align: center;
+}
+.cardInfo.data-v-68c13a9a{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	height: 150rpx;
+	margin: 0 24rpx;
+}
+.cardTitle.data-v-68c13a9a{
+	width: 100%;
+	height: 72rpx;
+	line-height: 36rpx;
+	color: #333;
+}
+.cardMoney.data-v-68c13a9a{
+	width: 100%;
+	height: 40rpx;
+	line-height: 40rpx;
+	color: #FF1558;
+	margin-top: 36rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.faceValue.data-v-68c13a9a{
+	margin-left: 10rpx;
+	color: #999;
+	text-decoration: line-through;
+}
+.cardNum.data-v-68c13a9a{
+	color: #999999;
+}
+.cardAllPrice.data-v-68c13a9a{
+	width: 100%;
+	height: 88rpx;
+	line-height: 88rpx;
+	text-align: right;
+	font-size: 24rpx;
+	color: #686868;
+	padding-right: 18rpx;
+	border-bottom: 1rpx solid #e4e4e4;
+}
+.cardBtn.data-v-68c13a9a{
+	width: 100%;
+	height: 98rpx;
+	padding-right: 24rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: end;
+	-webkit-justify-content: flex-end;
+	        justify-content: flex-end;
+}
+.cardBtnText.data-v-68c13a9a{
+	width: 150rpx;
+	height: 52rpx;
+	text-align: center;
+	line-height: 52rpx;
+	color: #666;
+	margin-top: 18rpx;
+	margin-left: 24rpx;
+	border-radius: 8rpx;
+	border: 1rpx solid #999;
+}
+.hint.data-v-68c13a9a{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 100%;
+	height: 100%;
+	color: #333333;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.noGiftCard.data-v-68c13a9a{
+	width: 100%;
+	background-color: #F5F5F5;
+	text-align: center;
+	padding-top: 300rpx;
+}
+.noGiftCard image.data-v-68c13a9a{
+	width: 360rpx;
+	height: 360rpx;
+}
+.noText.data-v-68c13a9a{
+	color: #999;
+	text-align: center;
+	font-size: 30rpx;
+	padding-top: 55rpx;
+}
+
